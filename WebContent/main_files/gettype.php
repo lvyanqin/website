@@ -1,0 +1,1 @@
+geetest_1490607380653({"status": "success", "data": {"static_servers": ["static.geetest.com", "dn-staticdown.qbox.me"], "type": "slide", "path": "/static/js/geetest.5.10.10.js"}})
