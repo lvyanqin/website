@@ -13,435 +13,21 @@
 	content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><![endif]-->
-<title>协会网站模板 - 协会模板</title>
+<title>主页</title>
 <link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
 <link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
 <link href="style/style.css" rel="stylesheet" type="text/css">
 <script src="style/hm.js"></script>
 <script src="style/jquery.min.js"></script>
 <link rel="stylesheet" href="style/style(1).css">
-<style>
-.wow {
-	visibility: hidden;
-}
-
-.swiper-pagination .swiper-pagination-bullet {
-	margin-bottom: 20px;
-}
-
-.do-swiper .swiper-button-next, .do-swiper .swiper-button-prev {
-	margin-left: 2%;
-}
-
-.do-swiper .swiper-button-next, .do-swiper .swiper-button-prev {
-	margin-right: 2%;
-}
-
-.do-site-name *, .do-nav-m-ul li a, .do-nav-m-ul .icon-isSub:before {
-	color: rgb(91, 91, 91);
-}
-
-#do-m-menustate:checked ~ .do-nav-m .do-nav-m-title, #do-m-menustate ~
-	.do-nav-m .do-nav-m-title {
-	background-color: rgb(255, 255, 255) !important;
-}
-
-.do-nav-m-ul>li>a, .do-nav-m-ul>li>ul {
-	border-bottom-color: rgb(235, 235, 235);
-}
-
-.do-nav-m-bar {
-	background-color: rgb(255, 255, 255) !important;
-}
-
-.do-nav-m .do-nav-page-name {
-	color: rgb(55, 55, 55);
-}
-
-.do-m-menu-btn span {
-	background-color: rgb(55, 55, 55) !important;
-}
-
-.do-nav-m-ul li a {
-	font-size: 14px;
-}
-
-.do-nav-m .do-site-name img {
-	height: 30px;
-}
-
-#banner_63648_0>.do-area-bg .bgcolor, #banner_63648_0 .fp-tableCell>.do-area-bg .bgcolor
-	{
-	background-color: rgba(0, 0, 0, 0.6);
-}
-
-.lt-ie9 #banner_63648_0>.do-area-bg .bgcolor, #banner_63648_0 .fp-tableCell>.do-area-bg .bgcolor
-	{
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,
-		endColorstr=#99000000)
-}
-
-#area_63648_2>.do-area-bg .bgcolor {
-	background-color: rgb(219, 214, 214);
-}
-
-#area_63648_4>.do-area-bg .bgcolor {
-	background-color: rgb(242, 242, 242);
-}
-
-#footer_63648_0 .do-row-one, #footer_63648_0 .do-element-text {
-	color: rgb(204, 204, 204);
-}
-
-#footer_63648_0>.do-area-bg .bgcolor {
-	background-color: rgb(50, 50, 51);
-}
-
-.z-nav {
-	text-align: right;
-}
-
-.z-nav.en a em {
-	color: rgb(77, 75, 75);
-	font-size: 13px;
-}
-
-.z-nav-conter>li.active>a, .z-nav-conter>li:hover>a {
-	background-color: rgba(255, 255, 255, 0);
-	color: rgb(54, 217, 203);
-}
-
-.z-nav-conter>li:hover>a {
-	background-color: rgba(255, 255, 255, 0);
-	color: rgb(54, 217, 203);
-}
-
-.z-nav-conter>li {
-	padding: 0 40px !important;
-	magrin-bottom: -10px;
-}
-
-.z-nav-conter>li>a {
-	border-bottom: 2px solid transparent;
-	padding-left: 0;
-	padding-right: 0;
-}
-
-.z-nav-conter>li.active>a, .z-nav-conter>li>a:hover {
-	border-bottom: 2px solid #36d9cb
-}
-
-.ly-dtxg {
-	padding: 0
-}
-
-.ly-dtxg .title-name-conter:after {
-	content: "";
-	display: block;
-	height: 2px;
-	width: 30px;
-	transition: all 0.3s ease-out;
-	background-color: #36d9cb;
-	margin-top: 8px;
-}
-
-.ly-dtxg:hover .title-name-conter:after {
-	width: 100%
-}
-
-.do-66yyx .do-element-media-conter {
-	background-color: rgb(88, 85, 83);
-	padding: 10px 10px 20px 10px;
-}
-
-.do-66yyx .do-middle-center img {
-	width: 35%;
-}
-
-.do-66yyx .do-title .title {
-	font-size: 18px;
-	line-height: 1.50em;
-	text-align: left;
-	color: rgb(255, 255, 255);
-}
-
-.do-66yyx .do-title .des {
-	font-size: 14px;
-	line-height: 1.50em;
-	text-align: left;
-	color: #fff;
-}
-
-.do-66yyx .do-element-media-conter {
-	padding: 0px 0px 20px 0px;
-}
-
-.ly-dt .do-title-body {
-	width: 80%;
-	margin: 0 auto;
-}
-
-.ly-dt .do-66yyx .do-element-media-conter:hover {
-	background-color: #4bacc7;
-}
-
-.ly-dt .fr-dib {
-	height: 1px;
-}
-
-.ly-zxxg {
-	padding: 0
-}
-
-.ly-zxxg .title-name-conter:after {
-	content: "";
-	display: block;
-	height: 2px;
-	width: 30px;
-	transition: all 0.3s ease-out;
-	background-color: #36d9cb;
-	margin-top: 8px;
-}
-
-.ly-zxxg:hover .title-name-conter:after {
-	width: 100%
-}
-
-.do-678yv .do-middle-center img {
-	width: 35%;
-}
-
-.do-time, .do-tags {
-	font-size: 14px;
-}
-
-.do-element-list-ul a:hover {
-	color: #36d9cb;
-}
-
-.do-element-media-li a:hover { (
-	color: #36d9cb;
-	)
-}
-
-.ly-zxbk .do-element-media-content.md ul li {
-	padding: 12px;
-	padding-bottom: 24px;
-}
-
-.do-678yr .do-middle-center img {
-	width: 35%;
-}
-
-.do-678yk .do-element-media-conter {
-	margin: 10px 0px 10px 0px;
-}
-
-.do-678yk .do-middle-center img {
-	width: 19%;
-}
-
-.do-678yk .do-title .title {
-	font-size: 18px;
-	line-height: 1.50em;
-	text-align: center;
-}
-
-.do-678yk .do-title .des {
-	font-size: 14px;
-	line-height: 1.50em;
-	text-align: center;
-}
-
-.ly-tzxg {
-	padding: 0
-}
-
-.ly-tzxg .title-name-conter:after {
-	content: "";
-	display: block;
-	height: 2px;
-	width: 30px;
-	transition: all 0.3s ease-out;
-	background-color: #36d9cb;
-	margin-top: 8px;
-}
-
-.ly-tzxg:hover .title-name-conter:after {
-	width: 100%
-}
-
-.do-67coi .do-middle-center img {
-	width: 35%;
-}
-
-.do-67coi .do-title .title {
-	font-size: 16px;
-	line-height: 1.50em;
-	text-align: left;
-}
-
-.do-67coi .do-title .des {
-	font-size: 13px;
-	line-height: 1.50em;
-	text-align: left;
-}
-
-.ly-tuwen .do-element-media-ul li:nth-child(1) {
-	border-bottom: 1px solid #dbd6d6;
-}
-
-.ly-hzxg .title-name-conter:after {
-	content: "";
-	display: block;
-	height: 2px;
-	width: 30px;
-	transition: all 0.3s ease-out;
-	background-color: #36d9cb;
-	margin: auto;
-	margin-top: 8px;
-}
-
-.ly-hzxg:hover .title-name-conter:after {
-	width: 100%
-}
-
-.do-67iiq .do-middle-center img {
-	width: 58%;
-}
-
-.ly-form .do-form-group {
-	background-color: rgba(0, 0, 0, 0);
-}
-
-.ly-form input, .ly-form textarea {
-	background-color: rgba(0, 0, 0, 0);
-	border: none;
-	border-bottom: 1px solid;
-	border-radius: 0px;
-}
-
-.do-bg-blue4, .do-pagination.do-bg-blue4 ul>.active>a {
-	border-radius: 0px;
-}
-
-.ly-form #origin_btn_33167130-d900-412d-9815-f5e40c97e261 {
-	border: none;
-}
-
-.swiper-button-next.swiper-button-white, .swiper-container-rtl .swiper-button-prev.swiper-button-white
-	{
-	background-image:
-		url(http://bk.image.styleweb.com.cn/2016/12/5/3917_iwbtnzbd.png?imageView2/0/w/390);
-	background-size: 100%;
-}
-
-.swiper-button-prev.swiper-button-white, .swiper-container-rtl .swiper-button-next.swiper-button-white
-	{
-	background-image:
-		url(http://bk.image.styleweb.com.cn/2016/12/5/3917_iwbtnzbj.png?imageView2/0/w/390);
-	background-size: 100%;
-}
-
-.swiper-button-next, .swiper-button-prev {
-	width: 33px;
-	height: 33px;
-}
-
-.do-swiper .swiper-button-next, .do-swiper .swiper-button-prev {
-	background-color: rgba(0, 0, 0, 0);
-}
-
-.swiper-button-prev:hover, .swiper-button-next:hover {
-	background-color: rgba(0, 0, 0, 0);
-}
-
-.swiper-pagination-bullet-active {
-	opacity: 1;
-	background: rgb(54, 217, 203);
-}
-
-.bdshare-button-style0-16 {
-	margin-top: 15px;
-}
-
-.do-bg-blue4, .do-pagination.do-bg-blue4 ul>.active>a {
-	background-color: #36d9cb !important;
-}
-
-.do-text-67iii .do-element-general {
-	margin: 0px 0px -20px 0px;
-}
-
-.do-6g0oo .do-element-share-content .do-share-icon {
-	font-size: 25px;
-}
-
-.do-6g0oo .do-element-share-content .do-share-title {
-	color: rgb(67, 71, 72);
-}
-
-.do-6g0oo .do-element-share-content .do-share-title {
-	font-size: 16px;
-}
-
-.do-6g0oo .do-element-share-content .do-share-li {
-	margin-right: 7px;
-}
-
-.do-67ii9 .do-element-forms .do-form-item {
-	width: 100%;
-}
-
-body .do-developers, .do-developers {
-	color: #666 !important;
-	width: 100% !important;
-	height: 38px !important;
-}
-
-body .do-developers a, .do-developers a {
-	color: #666 !important;
-	display: inline-block !important;
-}
-
-body .do-developers a:hover, .do-developers a:hover {
-	color: #000 !important;
-}
-
-body .do-developers, .do-developers {
-	display: block !important;
-	border-top: 1px solid #ecebeb !important;
-	background: #f3f3f3 !important;
-	padding: 12px !important;
-	text-align: center !important;
-	font-size: 13px !important;
-	line-height: 100% !important;
-	opacity: 1 !important;
-	text-indent: 0 !important
-}
-
-body .do-developers i, .do-developers i {
-	font-size: 13px !important;
-	vertical-align: middle;
-	position: relative;
-	top: -1px
-}
-
-body .do-developers *, .do-developers * {
-	opacity: 1 !important;
-	text-indent: 0 !important;
-	display: inline-block !important;
-}
-</style>
+<link rel="stylesheet" href="style/mainjsp.css">
 <link rel="stylesheet" href="style/style(2).css"
 	id="layui_layer_skinstylecss">
 <script type="text/javascript" src="style/swiper.min.js"></script>
 <link rel="stylesheet" href="style/layer.css"
 	id="layui_layer_skinlayercss">
-<script charset="UTF-8" async="" src="style/gettype.php"></script>
 <link rel="stylesheet" href="style/share_style0_16.css">
 <script charset="UTF-8" async="" src="style/geetest.5.10.10.js"></script>
-<script charset="UTF-8" src="style/get.php"></script>
 <link rel="stylesheet" href="style/style.3.2.0.css">
 </head>
 <body do-page-width="1" class="fr-element fr-view do-page-63648"
@@ -449,52 +35,6 @@ body .do-developers *, .do-developers * {
 	do-phonenav-btnalign="do-navBtn-left">
 	<div style="display: none">
 		<img src="style/3917_iwol5yu4.png">
-	</div>
-	<div class="do-nav-mwp do-nav-phone">
-		<input type="checkbox" id="do-m-menustate" class="do-m-menustate">
-		<div class="do-nav-m open">
-			<div class="do-nav-m-title animate">
-				<div class="do-site-name">
-					<h3 class="align-center">
-						<a href="http://xiehuimoban.s2.cn.vc/"><img class="animate"
-							src="style/3917_iwol5yu4(1).png" alt="协会模板"></a>
-					</h3>
-				</div>
-				<div class="do-m-menustate do-btn-line do-nav-btn">
-					<label class="do-m-menu-btn" for="do-m-menustate"><span></span><span></span><span></span></label>
-				</div>
-			</div>
-			<div class="do-phoneNav-overlay"></div>
-			<div class="do-nav-m-bar animate">
-				<ul class="do-nav-m-ul clearfix">
-					<li class="nav63648 active"><a
-						href="http://xiehuimoban.s2.cn.vc/"><span>首页</span></a></li>
-					<li class="nav63658"><a
-						href="http://xiehuimoban.s2.cn.vc/63658.html"><span>协会概况</span></a></li>
-					<li class="nav63659"><a
-						href="http://xiehuimoban.s2.cn.vc/63659.html"><span>协会会员</span></a></li>
-					<li class="nav63835"><a
-						href="http://xiehuimoban.s2.cn.vc/63835.html"><span>资讯中心</span></a></li>
-					<li class="nav63661"><a
-						href="http://xiehuimoban.s2.cn.vc/board"><span>协会动态</span></a><input
-						type="checkbox" id="inputNavSub63661"
-						class="do-m-menustate do-m-sub"><label
-						for="inputNavSub63661" class="icon-isSub"></label>
-						<ul class="z-nav-sub">
-							<li class="nav63961"><a
-								href="http://xiehuimoban.s2.cn.vc/board"><span>通知公告</span></a></li>
-						</ul></li>
-					<li class="nav63662"><a
-						href="http://xiehuimoban.s2.cn.vc/63662.html"><span>联系我们</span></a></li>
-				</ul>
-				<div class="do-site-name animate do-nav-m-bar-name">
-					<h3></h3>
-					<h3>
-						<a href="http://xiehuimoban.s2.cn.vc/"><img class="animate"></a>
-					</h3>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="do-adrift">
 		<div class="do-gotop" style="display: block;">
@@ -686,11 +226,11 @@ body .do-developers *, .do-developers * {
 																		<div class="title-name-conter do-html-content">
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);"><span
-																					style="font-size: 20px;"><strong>业界动态</strong></span></span>
+																					style="font-size: 20px;"><strong>最热文章</strong></span></span>
 																			</p>
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);"><span
-																					style="font-size: 16px;">Industry dynamics</span></span>
+																					style="font-size: 16px;">Hottest Articles</span></span>
 																			</p>
 																		</div>
 																	</div>
@@ -936,11 +476,11 @@ body .do-developers *, .do-developers * {
 														<div class="title-name-conter do-html-content">
 															<p style="line-height: 1;">
 																<span style="color: rgb(51, 51, 51);"><span
-																	style="font-size: 20px;"><strong>资讯中心</strong></span></span>
+																	style="font-size: 20px;"><strong>最新文章</strong></span></span>
 															</p>
 															<p style="line-height: 1;">
 																<span style="color: rgb(51, 51, 51);"><span
-																	style="font-size: 16px;">Information Center</span></span>
+																	style="font-size: 16px;">Latest Article</span></span>
 															</p>
 														</div>
 													</div>
@@ -1943,49 +1483,7 @@ body .do-developers *, .do-developers * {
 														</div>
 													</div>
 												</div>
-												<div class="do-block do-share do-6g0oo">
-													<div class="do-element-share">
-														<div class="do-element-share-content">
-															<div
-																class="preLogos bdsharebuttonbox do-icon align-left bdshare-button-style0-16"
-																data-tag="share_6g0oo" data-bd-bind="1490607371440">
-																<a class="bds_sqq do-share-li" title="分享到QQ好友"
-																	data-cmd="sqq"><span class="do-share-icon icon-qq"></span></a><a
-																	class="bds_weixin do-share-li" title="分享到微信"
-																	data-cmd="weixin"><span
-																	class="do-share-icon icon-weixin"></span></a><a
-																	class="bds_qzone do-share-li" title="分享到QQ空间"
-																	data-cmd="qzone"><span
-																	class="do-share-icon icon-kongjian"></span></a><a
-																	class="bds_tsina do-share-li" title="分享到新浪微博"
-																	data-cmd="tsina"><span
-																	class="do-share-icon icon-weibo"></span></a><a
-																	class="bds_huaban do-share-li" title="分享到花瓣"
-																	data-cmd="huaban"><span
-																	class="do-share-icon icon-huaban"></span></a><a
-																	class="bds_fbook do-share-li" title="分享到facebook"
-																	data-cmd="fbook"><span
-																	class="do-share-icon icon-facebook"></span></a><a
-																	class="bds_twi do-share-li" title="分享到twitter"
-																	data-cmd="twi"><span
-																	class="do-share-icon icon-twitter"></span></a>
-															</div>
-														</div>
-													</div>
-
-													<script>
-														window._bd_share_config = window._bd_share_config
-																|| {
-																	share : []
-																};
-														window._bd_share_config.share
-																.push(
-																		{
-																			tag : "share_6g0oo",
-																			bdSize : ""
-																		})
-													</script>
-												</div>
+												<div class="do-block do-share do-6g0oo"></div>
 											</div>
 										</div>
 										<div class="do-col-4 do-F-c-65-66-72-73" id="F-c-65-66-72-73">
@@ -2055,19 +1553,6 @@ body .do-developers *, .do-developers * {
 										</div>
 										<div class="do-col-4 do-F-c-65-66-72-81" id="F-c-65-66-72-81">
 											<div class="do-panelcol">
-												<div class="do-block do-text do-67iij">
-													<div class="do-text-67iij">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>
-																		<span style="font-size: 20px;">在线留言</span>
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
 												<div class="do-block do-space do-67iib">
 													<div class="do-element-space pc"
 														style="padding-top: 6.329113924050633%;"></div>
@@ -2157,11 +1642,18 @@ body .do-developers *, .do-developers * {
 	<script src="style/saved_resource(11)" merge="true"></script>
 	<script src="style/common.js"></script>
 	<script src="style/gt.js"></script>
-	<script src="style/share.js"></script>
 	<script src="style/1.js"></script>
 	<script src="style/swipers.js"></script>
 	<script src="style/zhuzi-statistic.js"></script>
 	<script type="text/javascript">
+		window._bd_share_config = window._bd_share_config || {
+			share : []
+		};
+		window._bd_share_config.share.push({
+			tag : "share_6g0oo",
+			bdSize : ""
+		})
+
 		$(function() {
 
 			var wow = new WOW({
