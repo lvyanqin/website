@@ -7,24 +7,24 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class Demo {
 
+	@RequestMapping(value = "/personalProfile.do")
+	public ModelAndView personalProfile(){
+		ModelAndView mv = new ModelAndView();
+		mv.setViewName("/personalProfile");
+		return mv;
+	}
+	
+	@RequestMapping(value = "/personalWorks.do")
+	public ModelAndView personalWorks(){
+		ModelAndView mv = new ModelAndView();
+		mv.setViewName("/personalWorks");
+		return mv;
+	}
+	
 	@RequestMapping(value = "/index.do")
-	public ModelAndView main(){
+	public ModelAndView index(){
 		ModelAndView mv = new ModelAndView();
 		mv.setViewName("/index");
-		return mv;
-	}
-	
-	@RequestMapping(value = "/index2.do")
-	public ModelAndView main2(){
-		ModelAndView mv = new ModelAndView();
-		mv.setViewName("/index2");
-		return mv;
-	}
-	
-	@RequestMapping(value = "/main.do")
-	public ModelAndView main3(){
-		ModelAndView mv = new ModelAndView();
-		mv.setViewName("/main");
 		return mv;
 	}
 	
