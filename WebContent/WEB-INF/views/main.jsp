@@ -7,25 +7,24 @@
 	id="index-page">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<!--<base href="/">-->
 <base href=".">
-<link rel="dns-prefetch" href="http://st.styleweb.cn/">
-<link rel="dns-prefetch" href="http://image.styleweb.cn/">
 <meta name="renderer" content="webkit">
 <meta name="viewport"
 	content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><![endif]-->
 <title>协会网站模板 - 协会模板</title>
-<meta name="robots" content="all">
-<meta name="description" content="协会网站模板">
-<meta name="keywords" content="协会网站模板">
+<link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
+<link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script src="style/hm.js"></script>
+<script src="style/jquery.min.js"></script>
+<link rel="stylesheet" href="style/style(1).css">
 <style>
 .wow {
 	visibility: hidden;
 }
-</style>
-<style>
+
 .swiper-pagination .swiper-pagination-bullet {
 	margin-bottom: 20px;
 }
@@ -37,12 +36,7 @@
 .do-swiper .swiper-button-next, .do-swiper .swiper-button-prev {
 	margin-right: 2%;
 }
-</style>
-<!--[if lt IE 9]><style>.wow {visibility: visible;}</style><![endif]-->
-<link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
-<link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<style>
+
 .do-site-name *, .do-nav-m-ul li a, .do-nav-m-ul .icon-isSub:before {
 	color: rgb(91, 91, 91);
 }
@@ -75,13 +69,7 @@
 .do-nav-m .do-site-name img {
 	height: 30px;
 }
-</style>
-<script src="style/hm.js"></script>
-<script src="style/jquery.min.js"></script>
-<link rel="shortcut icon" type="image/ico"
-	href="http://xiehuimoban.s2.cn.vc/">
-<link rel="stylesheet" href="style/style(1).css">
-<style>
+
 #banner_63648_0>.do-area-bg .bgcolor, #banner_63648_0 .fp-tableCell>.do-area-bg .bgcolor
 	{
 	background-color: rgba(0, 0, 0, 0.6);
@@ -93,44 +81,8 @@
 		endColorstr=#99000000)
 }
 
-#area_63648_0 .do-area-bg-conter {
-	
-}
-
-#area_63648_0 .do-row-one, #area_63648_0 .do-element-text {
-	
-}
-
-#area_63648_0 .do-area-bg-conter:before {
-	
-}
-
-#area_63648_1 .do-area-bg-conter {
-	
-}
-
-#area_63648_1 .do-row-one, #area_63648_1 .do-element-text {
-	
-}
-
-#area_63648_1 .do-area-bg-conter:before {
-	
-}
-
 #area_63648_2>.do-area-bg .bgcolor {
 	background-color: rgb(219, 214, 214);
-}
-
-#area_63648_3 .do-area-bg-conter {
-	
-}
-
-#area_63648_3 .do-row-one, #area_63648_3 .do-element-text {
-	
-}
-
-#area_63648_3 .do-area-bg-conter:before {
-	
 }
 
 #area_63648_4>.do-area-bg .bgcolor {
@@ -144,8 +96,7 @@
 #footer_63648_0>.do-area-bg .bgcolor {
 	background-color: rgb(50, 50, 51);
 }
-</style>
-<style>
+
 .z-nav {
 	text-align: right;
 }
@@ -164,8 +115,7 @@
 	background-color: rgba(255, 255, 255, 0);
 	color: rgb(54, 217, 203);
 }
-</style>
-<style>
+
 .z-nav-conter>li {
 	padding: 0 40px !important;
 	magrin-bottom: -10px;
@@ -180,8 +130,7 @@
 .z-nav-conter>li.active>a, .z-nav-conter>li>a:hover {
 	border-bottom: 2px solid #36d9cb
 }
-</style>
-<style>
+
 .ly-dtxg {
 	padding: 0
 }
@@ -199,8 +148,7 @@
 .ly-dtxg:hover .title-name-conter:after {
 	width: 100%
 }
-</style>
-<style>
+
 .do-66yyx .do-element-media-conter {
 	background-color: rgb(88, 85, 83);
 	padding: 10px 10px 20px 10px;
@@ -223,8 +171,7 @@
 	text-align: left;
 	color: #fff;
 }
-</style>
-<style>
+
 .do-66yyx .do-element-media-conter {
 	padding: 0px 0px 20px 0px;
 }
@@ -241,8 +188,7 @@
 .ly-dt .fr-dib {
 	height: 1px;
 }
-</style>
-<style>
+
 .ly-zxxg {
 	padding: 0
 }
@@ -260,13 +206,11 @@
 .ly-zxxg:hover .title-name-conter:after {
 	width: 100%
 }
-</style>
-<style>
+
 .do-678yv .do-middle-center img {
 	width: 35%;
 }
-</style>
-<style>
+
 .do-time, .do-tags {
 	font-size: 14px;
 }
@@ -284,13 +228,11 @@
 	padding: 12px;
 	padding-bottom: 24px;
 }
-</style>
-<style>
+
 .do-678yr .do-middle-center img {
 	width: 35%;
 }
-</style>
-<style>
+
 .do-678yk .do-element-media-conter {
 	margin: 10px 0px 10px 0px;
 }
@@ -310,8 +252,7 @@
 	line-height: 1.50em;
 	text-align: center;
 }
-</style>
-<style>
+
 .ly-tzxg {
 	padding: 0
 }
@@ -329,8 +270,7 @@
 .ly-tzxg:hover .title-name-conter:after {
 	width: 100%
 }
-</style>
-<style>
+
 .do-67coi .do-middle-center img {
 	width: 35%;
 }
@@ -346,13 +286,11 @@
 	line-height: 1.50em;
 	text-align: left;
 }
-</style>
-<style>
+
 .ly-tuwen .do-element-media-ul li:nth-child(1) {
 	border-bottom: 1px solid #dbd6d6;
 }
-</style>
-<style>
+
 .ly-hzxg .title-name-conter:after {
 	content: "";
 	display: block;
@@ -367,13 +305,11 @@
 .ly-hzxg:hover .title-name-conter:after {
 	width: 100%
 }
-</style>
-<style>
+
 .do-67iiq .do-middle-center img {
 	width: 58%;
 }
-</style>
-<style>
+
 .ly-form .do-form-group {
 	background-color: rgba(0, 0, 0, 0);
 }
@@ -392,8 +328,7 @@
 .ly-form #origin_btn_33167130-d900-412d-9815-f5e40c97e261 {
 	border: none;
 }
-</style>
-<style>
+
 .swiper-button-next.swiper-button-white, .swiper-container-rtl .swiper-button-prev.swiper-button-white
 	{
 	background-image:
@@ -425,8 +360,7 @@
 	opacity: 1;
 	background: rgb(54, 217, 203);
 }
-</style>
-<style>
+
 .bdshare-button-style0-16 {
 	margin-top: 15px;
 }
@@ -434,13 +368,11 @@
 .do-bg-blue4, .do-pagination.do-bg-blue4 ul>.active>a {
 	background-color: #36d9cb !important;
 }
-</style>
-<style>
+
 .do-text-67iii .do-element-general {
 	margin: 0px 0px -20px 0px;
 }
-</style>
-<style>
+
 .do-6g0oo .do-element-share-content .do-share-icon {
 	font-size: 25px;
 }
@@ -456,13 +388,11 @@
 .do-6g0oo .do-element-share-content .do-share-li {
 	margin-right: 7px;
 }
-</style>
-<style>
+
 .do-67ii9 .do-element-forms .do-form-item {
 	width: 100%;
 }
-</style>
-<style>
+
 body .do-developers, .do-developers {
 	color: #666 !important;
 	width: 100% !important;
