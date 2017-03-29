@@ -29,6 +29,20 @@ public class Demo {
 		return mv;
 	}
 	
+	@RequestMapping(value = "/detail.do")
+	public ModelAndView detail(){
+		ModelAndView mv = new ModelAndView();
+		mv.setViewName("/detail");
+		return mv;
+	}
+	
+	@RequestMapping(value = "/list.do")
+	public ModelAndView list(){
+		ModelAndView mv = new ModelAndView();
+		mv.setViewName("/list");
+		return mv;
+	}
+	
 //	@RequestMapping(value = "/test.do")
 //	@ResponseBody
 //	public String test(){
