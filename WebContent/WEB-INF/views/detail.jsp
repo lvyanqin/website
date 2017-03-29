@@ -2,8 +2,7 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="zh-CN"
-	class="do-cke js no-mobile desktop no-ie chrome chrome55 root-section w-1880 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded"
-	id="63662-page">
+	class="do-cke js no-mobile desktop no-ie chrome chrome55 root-section w-1880 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="style/style1.3.25.9.css">
@@ -62,7 +61,8 @@
 			<div class="do-area" id="header_63662_0">
 				<div class="do-area-bg">
 					<div class="do-area-bg-conter">
-						<div class="bgcolor" style="background-image:style/1587_iw8marcm.jpg;"></div>
+						<div class="bgcolor"
+							style="background-image: style/1587_iw8marcm .jpg;"></div>
 					</div>
 				</div>
 				<div d="header_0" class="do-row do-row-one">
@@ -140,32 +140,53 @@
 				</div>
 			</div>
 		</div>
-		<div class="do-section fp-auto-height do-banner" data-fullname="BANNER">
-			<div class="do-area" id="banner_63662_0"><div class="do-area-bg ">
-			<div class="do-area-bg-conter" style="background-image: url('http://bk.image.styleweb.com.cn/2016/12/3/1587_iw8marcm.jpg?imageMogr2/thumbnail/2000x2000/q/100');background-attachment:initial">
-				<div class="bgcolor">
+		<div class="do-section fp-auto-height do-banner"
+			data-fullname="BANNER">
+			<div class="do-area" id="banner_63662_0">
+				<div class="do-area-bg ">
+					<div class="do-area-bg-conter"
+						style="background-image: url('http://bk.image.styleweb.com.cn/2016/12/3/1587_iw8marcm.jpg?imageMogr2/thumbnail/2000x2000/q/100'); background-attachment: initial">
+						<div class="bgcolor"></div>
+					</div>
+				</div>
+				<div id="banner_0" class="do-row do-row-one ">
+					<div class="do-row ">
+						<div class="do-col-12 do-B-c-33-34" id="B-c-33-34">
+							<div class="do-panelcol">
+								<div class="do-block do-space do-6bpqe">
+									<div class="do-element-space pc" style="padding-top: 10%;">
+									</div>
+									<div class="do-element-space phone" style="padding-top: 18%;">
+									</div>
+								</div>
+								<div class="do-block do-text do-6bpqd">
+									<div class="do-text-6bpqd">
+										<div class="do-element-text do-element-general">
+											<div class="do-element-text-content do-html">
+												<div class="do-html-content">
+													<h2 style="text-align: left;">
+														<em><span style="font-size: 48px;">联系我们</span></em>
+													</h2>
+													<h5 style="text-align: left;">
+														<span style="font-size: 24px;"><em><span
+																style="font-family: 'Times New Roman', Times, serif;">Contact
+																	Us</span></em></span>
+													</h5>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="do-block do-space do-6bpqc">
+									<div class="do-element-space pc" style="padding-top: 10%;"></div>
+									<div class="do-element-space phone" style="padding-top: 13%;"></div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div id="banner_0" class="do-row do-row-one ">
-		<div class="do-row ">
-		<div class="do-col-12 do-B-c-33-34" id="B-c-33-34">
-		<div class="do-panelcol">
-		<div class="do-block do-space do-6bpqe">
-		<div class="do-element-space pc" style="padding-top:10%;">
-		</div>
-		<div class="do-element-space phone" style="padding-top:18%;">
-		</div>
-		</div>
-		<div class="do-block do-text do-6bpqd">
-		<div class="do-text-6bpqd">
-		<div class="do-element-text do-element-general">
-		<div class="do-element-text-content do-html">
-		<div class="do-html-content">
-		<h2 style="text-align: left;"><em><span style="font-size: 48px;">联系我们</span></em></h2>
-		<h5 style="text-align: left;"><span style="font-size: 24px;"><em><span style="font-family: 'Times New Roman',Times,serif;">Contact Us</span></em></span></h5>
-		</div></div></div></div></div>
-		<div class="do-block do-space do-6bpqc"><div class="do-element-space pc" style="padding-top:10%;"></div><div class="do-element-space phone" style="padding-top:13%;"></div></div></div></div></div></div></div></div>
 		<div class="do-body">
 			<div class="do-section do-area" id="area_63662_0" data-fullname="">
 				<div class="do-area-bg ">
@@ -249,7 +270,7 @@
 									<div class="do-element-space pc" style="padding-top: 5%;"></div>
 									<div class="do-element-space phone" style="padding-top: 5%;"></div>
 								</div>
-								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -430,8 +451,7 @@
 												<div class="do-block do-forms do-67ii9">
 													<div
 														class="do-element-forms ly-form align-left do-forms-label-hide ">
-														<div class="do-noAdapt-content md list ">
-															</div>
+														<div class="do-noAdapt-content md list "></div>
 													</div>
 
 												</div>
@@ -450,5 +470,5 @@
 			</div>
 		</div>
 	</div>
-	</body>
+</body>
 </html>

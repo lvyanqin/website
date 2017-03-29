@@ -3,98 +3,24 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <!-- saved from url=(0038)http://xiehuimoban.s2.cn.vc/63835.html -->
 <html lang="zh-CN"
-	class="do-cke js no-mobile desktop no-ie chrome chrome55 root-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded w-1880 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 lt-1920 no-portrait landscape"
-	id="63835-page">
+	class="do-cke js no-mobile desktop no-ie chrome chrome55 root-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded w-1880 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 lt-1920 no-portrait landscape">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--<base href="/">-->
 <base href=".">
-<link rel="dns-prefetch" href="http://st.styleweb.cn/">
-<link rel="dns-prefetch" href="http://image.styleweb.cn/">
 <meta name="renderer" content="webkit">
 <meta name="viewport"
 	content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-<!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><![endif]-->
 <title>资讯中心 - 协会模板</title>
 <meta name="robots" content="all">
-<style>
-.wow {
-	visibility: hidden;
-}
-</style>
-<!--[if lt IE 9]><style>.wow {visibility: visible;}</style><![endif]-->
 <link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
 <link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
 <link href="style/style.css" rel="stylesheet" type="text/css">
-<style>
-.do-site-name *, .do-nav-m-ul li a, .do-nav-m-ul .icon-isSub:before {
-	color: rgb(91, 91, 91);
-}
-
-#do-m-menustate:checked ~ .do-nav-m .do-nav-m-title, #do-m-menustate ~
-	.do-nav-m .do-nav-m-title {
-	background-color: rgb(255, 255, 255) !important;
-}
-
-.do-nav-m-ul>li>a, .do-nav-m-ul>li>ul {
-	border-bottom-color: rgb(235, 235, 235);
-}
-
-.do-nav-m-bar {
-	background-color: rgb(255, 255, 255) !important;
-}
-
-.do-nav-m .do-nav-page-name {
-	color: rgb(55, 55, 55);
-}
-
-.do-m-menu-btn span {
-	background-color: rgb(55, 55, 55) !important;
-}
-
-.do-nav-m-ul li a {
-	font-size: 14px;
-}
-
-.do-nav-m .do-site-name img {
-	height: 30px;
-}
-</style>
 <script src="style/hm.js"></script>
 <script src="style/jquery.min.js"></script>
-<link rel="shortcut icon" type="image/ico"
-	href="http://xiehuimoban.s2.cn.vc/">
 <link rel="stylesheet" href="style/style(1).css">
-<style>
-#banner_63835_0>.do-area-bg .do-area-bg-conter {
-	background-attachment: initial;
-}
-
-#banner_63835_0 .do-row-one, #banner_63835_0 .do-element-text {
-	color: rgb(255, 255, 255);
-}
-
-#area_63835_0 .do-area-bg-conter {
-	
-}
-
-#area_63835_0 .do-row-one, #area_63835_0 .do-element-text {
-	
-}
-
-#area_63835_0 .do-area-bg-conter:before {
-	
-}
-
-#footer_63835_0 .do-row-one, #footer_63835_0 .do-element-text {
-	color: rgb(204, 204, 204);
-}
-
-#footer_63835_0>.do-area-bg .bgcolor {
-	background-color: rgb(50, 50, 51);
-}
-</style>
+<link rel="stylesheet" href="style/listjsp.css">
 <link rel="stylesheet" href="style/style(2).css"
 	id="layui_layer_skinstylecss">
 <script type="text/javascript" src="style/swiper.min.js"></script>
@@ -127,35 +53,7 @@
 				</div>
 			</div>
 			<div class="do-phoneNav-overlay"></div>
-			<div class="do-nav-m-bar animate">
-				<ul class="do-nav-m-ul clearfix">
-					<li class="nav63648"><a href="http://xiehuimoban.s2.cn.vc/"><span>首页</span></a></li>
-					<li class="nav63658"><a
-						href="http://xiehuimoban.s2.cn.vc/63658.html"><span>协会概况</span></a></li>
-					<li class="nav63659"><a
-						href="http://xiehuimoban.s2.cn.vc/63659.html"><span>协会会员</span></a></li>
-					<li class="nav63835 active"><a
-						href="http://xiehuimoban.s2.cn.vc/63835.html"><span>资讯中心</span></a></li>
-					<li class="nav63661"><a
-						href="http://xiehuimoban.s2.cn.vc/board"><span>协会动态</span></a><input
-						type="checkbox" id="inputNavSub63661"
-						class="do-m-menustate do-m-sub"><label
-						for="inputNavSub63661" class="icon-isSub"></label>
-					<ul class="z-nav-sub">
-							<li class="nav63961"><a
-								href="http://xiehuimoban.s2.cn.vc/board"><span>通知公告</span></a></li>
-						</ul></li>
-					<li class="nav63662"><a
-						href="http://xiehuimoban.s2.cn.vc/63662.html"><span>联系我们</span></a></li>
-				</ul>
-				<div class="do-site-name animate do-nav-m-bar-name">
-					<h3></h3>
-					<h3>
-						<a href="http://xiehuimoban.s2.cn.vc/"><img class="animate"></a>
-					</h3>
-				</div>
 			</div>
-		</div>
 	</div>
 	<div class="do-adrift">
 		<div class="do-gotop" style="display: none;">
@@ -215,7 +113,7 @@
 																		type="checkbox" id="inputNavSub63661"
 																		class="do-m-menustate do-m-sub"><label
 																		for="inputNavSub63661" class="icon-isSub"></label>
-																	<ul class="z-nav-sub">
+																		<ul class="z-nav-sub">
 																			<li class="nav63961"><a
 																				href="http://xiehuimoban.s2.cn.vc/board"><span>通知公告</span></a></li>
 																		</ul></li>
@@ -229,26 +127,7 @@
 																class="line-3"></span>
 														</div>
 													</div>
-													<style>
-.z-nav {
-	text-align: right;
-}
 
-.z-nav.en a em {
-	color: rgb(77, 75, 75);
-	font-size: 13px;
-}
-
-.z-nav-conter>li.active>a, .z-nav-conter>li:hover>a {
-	background-color: rgba(255, 255, 255, 0);
-	color: rgb(54, 217, 203);
-}
-
-.z-nav-conter>li:hover>a {
-	background-color: rgba(255, 255, 255, 0);
-	color: rgb(54, 217, 203);
-}
-</style>
 												</div>
 											</div>
 										</div>
@@ -256,24 +135,7 @@
 								</div>
 								<div class="do-block do-code do-66sxz">
 									<div class="do-element-code">
-										<div class="do-element-code-content">
-											<style>
-.z-nav-conter>li {
-	padding: 0 40px !important;
-	magrin-bottom: -10px;
-}
-
-.z-nav-conter>li>a {
-	border-bottom: 2px solid transparent;
-	padding-left: 0;
-	padding-right: 0;
-}
-
-.z-nav-conter>li.active>a, .z-nav-conter>li>a:hover {
-	border-bottom: 2px solid #36d9cb
-}
-</style>
-										</div>
+										<div class="do-element-code-content"></div>
 									</div>
 								</div>
 							</div>
@@ -284,7 +146,48 @@
 		</div>
 		<div class="do-section fp-auto-height do-banner"
 			data-fullname="BANNER">
-			<div class="do-area" id="banner_63835_0"><div class="do-area-bg "><div class="do-area-bg-conter" style="background-image: url('http://bk.image.styleweb.com.cn/2016/12/3/1587_iw8n17mv.jpg?imageMogr2/thumbnail/2000x2000/q/100');background-attachment:initial"><div class="bgcolor"></div></div></div><div id="banner_0" class="do-row do-row-one "><div class="do-row "><div class="do-col-12 do-B-c-33-34" id="B-c-33-34"><div class="do-panelcol"><div class="do-block do-space do-6bpq6"><div class="do-element-space pc" style="padding-top:10%;"></div><div class="do-element-space phone" style="padding-top:18%;"></div></div><div class="do-block do-text do-6bpq5"><div class="do-text-6bpq5"><div class="do-element-text do-element-general"><div class="do-element-text-content do-html"><div class="do-html-content"><h2 style="text-align: left;"><em><span style="font-size: 48px;">资讯中心</span></em></h2><h5 style="text-align: left;"><span style="font-size: 24px;"><em><span style="font-family: 'Times New Roman',Times,serif;">News</span></em></span></h5></div></div></div></div></div><div class="do-block do-space do-6bpq4"><div class="do-element-space pc" style="padding-top:10%;"></div><div class="do-element-space phone" style="padding-top:13%;"></div></div></div></div></div></div></div></div>
+			<div class="do-area" id="banner_63835_0">
+				<div class="do-area-bg ">
+					<div class="do-area-bg-conter"
+						style="background-image: url('http://bk.image.styleweb.com.cn/2016/12/3/1587_iw8n17mv.jpg?imageMogr2/thumbnail/2000x2000/q/100'); background-attachment: initial">
+						<div class="bgcolor"></div>
+					</div>
+				</div>
+				<div id="banner_0" class="do-row do-row-one ">
+					<div class="do-row ">
+						<div class="do-col-12 do-B-c-33-34" id="B-c-33-34">
+							<div class="do-panelcol">
+								<div class="do-block do-space do-6bpq6">
+									<div class="do-element-space pc" style="padding-top: 10%;"></div>
+									<div class="do-element-space phone" style="padding-top: 18%;"></div>
+								</div>
+								<div class="do-block do-text do-6bpq5">
+									<div class="do-text-6bpq5">
+										<div class="do-element-text do-element-general">
+											<div class="do-element-text-content do-html">
+												<div class="do-html-content">
+													<h2 style="text-align: left;">
+														<em><span style="font-size: 48px;">资讯中心</span></em>
+													</h2>
+													<h5 style="text-align: left;">
+														<span style="font-size: 24px;"><em><span
+																style="font-family: 'Times New Roman', Times, serif;">News</span></em></span>
+													</h5>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="do-block do-space do-6bpq4">
+									<div class="do-element-space pc" style="padding-top: 10%;"></div>
+									<div class="do-element-space phone" style="padding-top: 13%;"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="do-body">
 			<div class="do-section do-area" id="area_63835_0" data-fullname="">
 				<div class="do-area-bg ">
@@ -502,11 +405,7 @@
 											</ul>
 										</div>
 									</div>
-									<style>
-.do-677yu .do-middle-center img {
-	width: 35%;
-}
-</style>
+
 								</div>
 								<div class="do-block do-space do-677yv">
 									<div class="do-element-space pc" style="padding-top: 6.9%;"></div>
@@ -567,11 +466,7 @@
 																	<div class="bgcolor"></div>
 																</div>
 															</div>
-															<style>
-.do-text-67iii .do-element-general {
-	margin: 0px 0px -20px 0px;
-}
-</style>
+
 														</div>
 													</div>
 												</div>
@@ -635,23 +530,7 @@
 															</div>
 														</div>
 													</div>
-													<style>
-.do-6g0oo .do-element-share-content .do-share-icon {
-	font-size: 25px;
-}
 
-.do-6g0oo .do-element-share-content .do-share-title {
-	color: rgb(67, 71, 72);
-}
-
-.do-6g0oo .do-element-share-content .do-share-title {
-	font-size: 16px;
-}
-
-.do-6g0oo .do-element-share-content .do-share-li {
-	margin-right: 7px;
-}
-</style>
 													<script>
 														window._bd_share_config = window._bd_share_config
 																|| {
@@ -815,11 +694,7 @@
 															</form>
 														</div>
 													</div>
-													<style>
-.do-67ii9 .do-element-forms .do-form-item {
-	width: 100%;
-}
-</style>
+
 													<script type="text/javascript">
 														var submiting = '提交中';
 														var submitSuccess = '提交成功';
@@ -843,47 +718,7 @@
 				</div>
 			</div>
 		</div>
-		<style>
-body .do-developers, .do-developers {
-	color: #666 !important;
-	width: 100% !important;
-	height: 38px !important;
-}
 
-body .do-developers a, .do-developers a {
-	color: #666 !important;
-	display: inline-block !important;
-}
-
-body .do-developers a:hover, .do-developers a:hover {
-	color: #000 !important;
-}
-
-body .do-developers, .do-developers {
-	display: block !important;
-	border-top: 1px solid #ecebeb !important;
-	background: #f3f3f3 !important;
-	padding: 12px !important;
-	text-align: center !important;
-	font-size: 13px !important;
-	line-height: 100% !important;
-	opacity: 1 !important;
-	text-indent: 0 !important
-}
-
-body .do-developers i, .do-developers i {
-	font-size: 13px !important;
-	vertical-align: middle;
-	position: relative;
-	top: -1px
-}
-
-body .do-developers *, .do-developers * {
-	opacity: 1 !important;
-	text-indent: 0 !important;
-	display: inline-block !important;
-}
-</style>
 	</div>
 	<script src="style/saved_resource(11)" merge="true"></script>
 	<script src="style/common.js"></script>
