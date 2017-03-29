@@ -12,7 +12,7 @@
 <meta name="viewport"
 	content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-<title>资讯中心 - 协会模板</title>
+<title>博客列表</title>
 <meta name="robots" content="all">
 <link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
 <link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
@@ -27,9 +27,7 @@
 <link rel="stylesheet" href="style/layer.css"
 	id="layui_layer_skinlayercss">
 <link rel="stylesheet" href="style/share_style0_16.css">
-<script charset="UTF-8" async="" src="style/gettype.php"></script>
 <script charset="UTF-8" async="" src="style/geetest.5.10.10.js"></script>
-<script charset="UTF-8" src="style/get.php"></script>
 <link rel="stylesheet" href="style/style.3.2.0.css">
 </head>
 <body do-page-width="1" class="fr-element fr-view do-page-63835"

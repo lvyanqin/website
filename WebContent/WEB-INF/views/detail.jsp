@@ -11,7 +11,7 @@
 <meta name="viewport"
 	content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-<title>联系我们 - 协会模板</title>
+<title>博客详情</title>
 <link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
 <link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
 <link href="style/style.css" rel="stylesheet" type="text/css">
