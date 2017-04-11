@@ -144,16 +144,22 @@
 											class="do-element-swiper-content swiper-container swiper-container-horizontal"
 											id="slide_6d8z4">
 											<div class="swiper-wrapper">
-												<div class="swiper-slide swiper-slide-active"
-													style="width: 1863px;">
+												<div class="swiper-slide swiper-slide-active">
 													<div class="do-element-slide-toys">
 														<div class="do-middle">
 															<div class="do-middle-centers do-element-slide-toys-con ">
 																<div class="do-slide-textbox ">
 																	<div class="do-slide-text">
 																		<p>
-																			<img class="fr-dib" src="style/3917_iwrg59pa.png"
-																				style="width: 1300px;"><br>
+																		<div
+																			style="margin: 5px auto; color: white; width: 1300px;">
+																			<span style="font-size: 18px;">爬坑之旅</span><br /> <span
+																				style="font-size: 68px;">welcome to websize</span> <br />
+																			<span style="font-size: 20px;">心若没有栖息的地方，到哪里都是在流浪</span><br />
+																			<br />
+																		</div>
+																		<!-- <img class="fr-dib" src="style/3917_iwrg59pa.png"
+																				style="width: 1300px;"><br> -->
 																		</p>
 																	</div>
 																</div>
@@ -162,9 +168,8 @@
 													</div>
 													<div class="do-element-slide-img">
 														<div class="do-slide-bg">
-															<a href="http://xiehuimoban.s2.cn.vc/"><div
-																	class="do-slide-bg-conter bgimg" title=""
-																	style="background-image: url(http://bk.image.styleweb.com.cn/2016/12/16/3917_iwrfya1b.png?imageView2/2/w/2000/q/100);">
+															<a><div class="do-slide-bg-conter bgimg" title=""
+																	style="background-image: url(style/1284_istyus7j_902498.png);">
 																	<div class="slide-bgcolor"
 																		style="background-color: rgba(1, 1, 1, 0);"></div>
 																</div></a>
@@ -173,14 +178,12 @@
 												</div>
 											</div>
 										</div>
-										<div class="swiper-pagination">
+										<!-- <div class="swiper-pagination">
 											<span
 												class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
-										</div>
-										<div
-											class="swiper-button-prev swiper-button-white swiper-button-disabled"></div>
-										<div
-											class="swiper-button-next swiper-button-white swiper-button-disabled"></div>
+										</div> -->
+										<!-- <div class="swiper-button-prev swiper-button-white swiper-button-disabled"></div>
+										<div class="swiper-button-next swiper-button-white swiper-button-disabled"></div> -->
 									</div>
 								</div>
 							</div>
