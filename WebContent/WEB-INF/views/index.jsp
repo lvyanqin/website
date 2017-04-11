@@ -679,162 +679,33 @@
 											data-rows="4" data-phonerows="2" data-initialslide="0"
 											data-slidespercolumn="1">
 											<ul class="do-element-media-ul x do-content-grid ">
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".0s"
-													style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 24.65277777777778%;">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/12/5/3917_iwbsdgry.png?imageView2/2/w/1800"
-																				src="style/3917_iwbsdgry.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<div class="do-title do-html-content">
-															<div class="do-title-body">
-																<div class="do-title-content do-html-content">
-																	<div class="do-html-content title">
-																		<p style="line-height: 1;">
-																			<a href="http://xiehuimoban.s2.cn.vc/"
-																				draggable="false"><span
-																				style="color: rgb(0, 0, 0); font-size: 16px;">协会规章</span></a>
-																		</p>
-																	</div>
-																	<div class="do-html-content des">
-																		<p>
-																			<span style="color: rgb(0, 0, 0);">association
-																				system</span>
-																		</p>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".1s"
-													style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 24.65277777777778%;">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4kdukg.png?imageView2/2/w/1800"
-																				src="style/1587_iw4kdukg.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<div class="do-title do-html-content">
-															<div class="do-title-body">
-																<div class="do-title-content do-html-content">
-																	<div class="do-html-content title">
-																		<p style="line-height: 1;">
-																			<a draggable="false"
-																				href="http://xiehuimoban.s2.cn.vc/"><span
-																				style="color: rgb(0, 0, 0); font-size: 16px;">财务制度</span></a>
-																		</p>
-																	</div>
-																	<div class="do-html-content des">
-																		<p>
-																			<span style="color: rgb(0, 0, 0);">The
-																				financial system</span>
-																		</p>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".2s"
-													style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 24.65277777777778%;">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4kduk7.png?imageView2/2/w/1800"
-																				src="style/1587_iw4kduk7.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<div class="do-title do-html-content">
-															<div class="do-title-body">
-																<div class="do-title-content do-html-content">
-																	<div class="do-html-content title">
-																		<p style="line-height: 1;">
-																			<a draggable="false"
-																				href="http://xiehuimoban.s2.cn.vc/"><span
-																				style="color: rgb(0, 0, 0); font-size: 16px;">申请入会</span></a>
-																		</p>
-																	</div>
-																	<div class="do-html-content des">
-																		<p>
-																			<span style="color: rgb(0, 0, 0);">Apply for
-																				membership</span>
-																		</p>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".3s"
-													style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 24.65277777777778%;">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4kduke.png?imageView2/2/w/1800"
-																				src="style/1587_iw4kduke.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<div class="do-title do-html-content">
-															<div class="do-title-body">
-																<div class="do-title-content do-html-content">
-																	<div class="do-html-content title">
-																		<p style="line-height: 1;">
-																			<a href="http://xiehuimoban.s2.cn.vc/"
-																				draggable="false"><span
-																				style="color: rgb(0, 0, 0); font-size: 16px;">联系我们</span></a>
-																		</p>
-																	</div>
-																	<div class="do-html-content des">
-																		<p>
-																			<span style="color: rgb(0, 0, 0);">Contact us</span>
-																		</p>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-											</ul>
+												<li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li>
+												<li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li><li class="do-element-media-li do-img-animation wow fadeInUp" data-wow-delay=".0s" style="width: 12%;visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div style="width:100px;margin:20px auto;font-size:20px;border:1px red solid;">html</div>
+												</li>
+												</ul>
 										</div>
 									</div>
 
