@@ -2233,7 +2233,7 @@ h6,.ui-txt-tips{font-size:14px}
 .do-element-list-item .heading{font-size: 14px}
 .do-element-list-item .heading a{padding-right: 20px}
 .do-element-list-item .heading b{font-weight: bold;opacity: .5}
-.do-element-list-item .do-time{float: right;color: inherit;opacity: .5}
+.do-element-list-item .do-time{float: right;color: inherit}
 .do-element-list.sm ul{margin:0 -8px}
 .do-element-list.md ul{margin:0 -12px}
 .do-element-list.lg ul{margin:0 -16px}

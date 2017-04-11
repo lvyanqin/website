@@ -207,11 +207,11 @@
 																		<div class="title-name-conter do-html-content">
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);">
-																				<span style="font-size: 20px;"><strong>最热文章<i class="fa fa-eye"></i><i class="fa fa-pencil-square-o"></i><i class="fa fa-tag"></i><i class="fa fa-home fa-fw" aria-hidden="true"></i><i class="fa fa-book fa-fw" aria-hidden="true"></i></strong></span></span>
+																				<span style="font-size: 20px;"><strong>最新文章</strong></span></span>
 																			</p>
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);">
-																				<span style="font-size: 16px;">Hottest Articles</span></span>
+																				<span style="font-size: 16px;">Latest Article</span></span>
 																			</p>
 																		</div>
 																	</div>
@@ -271,7 +271,8 @@
 																		<p><span style="font-size: 16px;">2016数博会主题论坛召开</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p><span style="font-size: 12px;">在2016中国大数据产业峰会暨中国电子商务创新发展峰会召开期间...</span></p>
+																		<p><span style="font-size: 12px;"><i class="fa fa-tag"></i><strong>spring</strong>&nbsp;&nbsp;&nbsp;</span><span style="width:80px;display:inline-block; ">&nbsp;</span><i class="fa fa-eye"></i><strong>300</strong>
+																		<br/><span><i class="fa fa-pencil-square-o"></i><strong>lynn</strong><span style="width:80px;display:inline-block; ">&nbsp;</span><i class="fa  fa-calendar"></i><strong>2017-02-11</strong></span></p>
 																		<p><span style="font-size: 12px;"><br></span></p>
 																		<p><span style="font-size: 12px;"><img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false"></span></p>
 																		<p style="line-height: 1.8;"><span style="font-size: 12px;">MORE&gt;&gt;</span></p>
@@ -320,10 +321,11 @@
 															<div class="do-title-body">
 																<div class="do-title-content do-html-content">
 																	<div class="do-html-content title">
-																		<p><span style="font-size: 16px;">制造业是互联网+的主战场</span></p>
+																		<p><span style="font-size: 16px;">2016数博会主题论坛召开</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p><span style="font-size: 12px;">近日，国务院印发了《关于深化制造业与互联网融合发展的指导意...</span></p>
+																		<p><span style="font-size: 12px;"><i class="fa fa-tag"></i><strong>spring</strong>&nbsp;&nbsp;&nbsp;</span>
+																		<br/><span><i class="fa fa-eye"></i><strong>300</strong><span style="width:80px;display:inline-block; ">&nbsp;</span><i class="fa fa-pencil-square-o"></i><strong>lynn</strong></span></p>
 																		<p><span style="font-size: 12px;"><br></span></p>
 																		<p><span style="font-size: 12px;"><img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false"></span></p>
 																		<p style="line-height: 1.8;"><span style="font-size: 12px;">MORE&gt;&gt;</span></p>
@@ -384,10 +386,10 @@
 													<div class="title-name">
 														<div class="title-name-conter do-html-content">
 															<p style="line-height: 1;">
-																<span style="color: rgb(51, 51, 51);"><span style="font-size: 20px;"><strong>最新文章</strong></span></span>
+																<span style="color: rgb(51, 51, 51);"><span style="font-size: 20px;"><strong>最热文章</strong></span></span>
 															</p>
 															<p style="line-height: 1;">
-																<span style="color: rgb(51, 51, 51);"><span style="font-size: 16px;">Latest Article</span></span>
+																<span style="color: rgb(51, 51, 51);"><span style="font-size: 16px;">Hottest Articles</span></span>
 															</p>
 														</div>
 													</div>
@@ -434,7 +436,7 @@
 																			<div class="do-element-text-content do-html">
 																				<div class="do-html-content">
 																					<p>
-																						<span style="font-size: 16px; color: rgb(51, 51, 51);">国内资讯</span>
+																						<span style="font-size: 16px; color: rgb(51, 51, 51);">技术</span>
 																					</p>
 																				</div>
 																			</div>
@@ -491,8 +493,9 @@
 																						</p>
 																					</div>
 																					<div class="do-html-content des">
-																						<p>当地时间9月23日，由中国互联网协会和微软公司共同主办的第八届中美互联网论坛在美国西雅图召开。论坛开幕式由微软全球副总裁陈实主持。
-																							...</p>
+																						<p>当地时间9月23日，由中国互联网协会和微软公司共同主办的第八届中美互联网论坛在美国西雅图召开。论坛开幕式由微软全球副总裁陈实主持。...</p>
+																						<p><i class="fa fa-tag"></i><strong>多线程</strong><span style="width:80px;display:inline-block; ">&nbsp;</span><i class="fa fa-eye"></i><strong>200</strong><br/>
+																						<i class="fa fa-pencil-square-o"></i><strong>zilin</strong><span style="width:80px;display:inline-block; ">&nbsp;</span><i class="fa  fa-calendar"></i><strong>2016-09-08</strong></p>
 																					</div>
 																				</div>
 																			</div>
@@ -511,10 +514,7 @@
 													<div class="do-element-list do-text-color ly-zx num1 phoneRows1 do-lineHeight-sm md do-element-list">
 														<ul class="do-element-list-ul clearfix">
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:49 </span><a class="do-ellipsis" target="_blank"><b>·</b>鲁炜在中美互联网论坛发表演讲：互利共赢 领航未来</a>
-																</h4></li>
-															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:48 </span><a class="do-ellipsis" target="_blank"><b>·</b>习近平会见出席中美互联网论坛</a>
+																	<span class="do-time"><i class="fa fa-tag"></i><strong>jvm</strong>&nbsp;&nbsp;<i class="fa fa-eye"></i><strong>280</strong>&nbsp;&nbsp;<i class="fa fa-pencil-square-o"></i><strong>lynn</strong>&nbsp;&nbsp;<i class="fa  fa-calendar"></i><strong>2016-11-30</strong> </span><a class="do-ellipsis" target="_blank"><b>·</b>鲁炜在中美互联网论坛发表演讲：互利共赢 领航未来</a>
 																</h4></li>
 															<li class="do-element-list-item"><h4 class="heading">
 																	<span class="do-time"> 2016-11-30 13:48 </span><a class="do-ellipsis" target="_blank"><b>·</b>罗宾·蔡斯出任分享经济工作委员会名誉顾问</a>
@@ -549,7 +549,7 @@
 																			<div class="do-element-text-content do-html">
 																				<div class="do-html-content">
 																					<p>
-																						<span style="font-size: 16px;">国外资讯</span>
+																						<span style="font-size: 16px;">杂论</span>
 																					</p>
 																				</div>
 																			</div>
