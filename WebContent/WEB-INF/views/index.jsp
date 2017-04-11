@@ -52,18 +52,17 @@
 				</div>
 				<div d="header_0" class="do-row do-row-one">
 					<div class="do-row ">
-						<div class="do-col-12 do-H-c-21-22" id="H-c-21-22">
+						<div class="do-col-12">
 							<div class="do-panelcol">
 								<div class="do-block do-space do-66sy2">
-									<div class="do-element-space pc"
-										style="padding-top: 1.4000000000000001%;"></div>
+									<div class="do-element-space pc" style="padding-top: 1.4000000000000001%;"></div>
 									<div class="do-element-space phone" style="padding-top: 2.63724434876211%;"></div>
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
-										<div class="do-col-4 do-H-c-21-22-24-25" id="H-c-21-22-24-25">
-											<div class="do-panelcol">
-												<div class="do-block do-logo do-66sy1">
+										<div class="do-col-4">
+											<div>
+												<div>
 													<div do-logo="" class="do-logo">
 														<div class="z-logo align-left size7">
 															<a title="website"><img src="style/logo.jpg" alt=""></a>
@@ -73,9 +72,9 @@
 												</div>
 											</div>
 										</div>
-										<div class="do-col-8 do-H-c-21-22-24-27" id="H-c-21-22-24-27">
-											<div class="do-panelcol">
-												<div class="do-block do-nav do-66sy0">
+										<div class="do-col-8">
+											<div>
+												<div>
 													<div class="z-nav align-center en">
 														<div class="z-nav-bar">
 															<div class="z-nav-container">
@@ -113,8 +112,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="do-section fp-auto-height do-banner"
-			data-fullname="BANNER">
+		<div class="do-section fp-auto-height do-banner">
 			<div class="do-area do-area-full" id="banner_63648_0">
 				<div class="do-area-bg ">
 					<div class="do-area-bg-conter">
@@ -123,15 +121,11 @@
 				</div>
 				<div id="banner_0" class="do-row do-row-one ">
 					<div class="do-row ">
-						<div class="do-col-12 do-B-c-39-40" id="B-c-39-40">
-							<div class="do-panelcol">
+						<div class="do-col-12">
+							<div>
 								<div class="do-block do-slide do-6d8z4">
-									<div
-										class="do-element-swiper do-element-slide do-slide-height  do-swiper"
-										style="padding-top: 38.730158730158735%;">
-										<div
-											class="do-element-swiper-content swiper-container swiper-container-horizontal"
-											id="slide_6d8z4">
+									<div class="do-element-swiper do-element-slide do-slide-height  do-swiper" style="padding-top: 38.730158730158735%;">
+										<div class="do-element-swiper-content swiper-container swiper-container-horizontal" id="slide_6d8z4">
 											<div class="swiper-wrapper">
 												<div class="swiper-slide swiper-slide-active">
 													<div class="do-element-slide-toys"><div style="margin-top:10px;color: white; width: 300px;text-align:center;">
@@ -157,8 +151,7 @@
 													</div>
 													<div class="do-element-slide-img">
 														<div class="do-slide-bg">
-															<a><div class="do-slide-bg-conter bgimg" title=""
-																	style="background-image: url(style/1284_istyus7j_902498.png);">
+															<a><div class="do-slide-bg-conter bgimg" title="" style="background-image: url(style/1284_istyus7j_902498.png);">
 																	<div class="slide-bgcolor"
 																		style="background-color: rgba(1, 1, 1, 0);"></div>
 																</div></a>
@@ -182,7 +175,7 @@
 			</div>
 		</div>
 		<div class="do-body">
-			<div class="do-section do-area" id="area_63648_0" data-fullname="">
+			<div class="do-section do-area" id="area_63648_0">
 				<div class="do-area-bg ">
 					<div class="do-area-bg-conter">
 						<div class="bgcolor"></div>
@@ -190,7 +183,7 @@
 				</div>
 				<div id="area_0" class="do-row do-row-one ">
 					<div class="do-row ">
-						<div class="do-col-12 do-D-c-8-9" id="D-c-8-9">
+						<div class="do-col-12">
 							<div class="do-panelcol">
 								<div class="do-block do-code do-6fikv">
 									<div class="do-element-code">
@@ -198,15 +191,12 @@
 									</div>
 								</div>
 								<div class="do-block do-space do-66pbm">
-									<div class="do-element-space pc"
-										style="padding-top: 7.000000000000001%;"></div>
-									<div class="do-element-space phone"
-										style="padding-top: 16.400000000000002%;"></div>
+									<div class="do-element-space pc" style="padding-top: 7.000000000000001%;"></div>
+									<div class="do-element-space phone" style="padding-top: 16.400000000000002%;"></div>
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
-										<div class="do-col-6 do-D-c-12-13-111-112"
-											id="D-c-12-13-111-112">
+										<div class="do-col-6">
 											<div class="do-panelcol">
 												<div class="do-block do-title do-6fil3">
 													<div class="do-element-title ly-dtxg">
@@ -216,12 +206,12 @@
 																	<div class="title-name">
 																		<div class="title-name-conter do-html-content">
 																			<p style="line-height: 1;">
-																				<span style="color: rgb(51, 51, 51);"><span
-																					style="font-size: 20px;"><strong>最热文章<i class="fa fa-eye"></i><i class="fa fa-pencil-square-o"></i><i class="fa fa-tag"></i><i class="fa fa-home fa-fw" aria-hidden="true"></i><i class="fa fa-book fa-fw" aria-hidden="true"></i></strong></span></span>
+																				<span style="color: rgb(51, 51, 51);">
+																				<span style="font-size: 20px;"><strong>最热文章<i class="fa fa-eye"></i><i class="fa fa-pencil-square-o"></i><i class="fa fa-tag"></i><i class="fa fa-home fa-fw" aria-hidden="true"></i><i class="fa fa-book fa-fw" aria-hidden="true"></i></strong></span></span>
 																			</p>
 																			<p style="line-height: 1;">
-																				<span style="color: rgb(51, 51, 51);"><span
-																					style="font-size: 16px;">Hottest Articles</span></span>
+																				<span style="color: rgb(51, 51, 51);">
+																				<span style="font-size: 16px;">Hottest Articles</span></span>
 																			</p>
 																		</div>
 																	</div>
@@ -232,7 +222,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="do-col-6 do-D-c-12-13-114">
+										<div class="do-col-6">
 											<div class="do-panelcol">
 												<div class="do-block do-text do-67pyj">
 													<div class="do-text-67pyj">
@@ -240,8 +230,8 @@
 															<div class="do-element-text-content do-html">
 																<div class="do-html-content">
 																	<p style="text-align: right;">
-																		<span style="color: rgb(51, 51, 51);"><span
-																			style="font-size: 14px;">MORE &gt;</span></span>
+																		<span style="color: rgb(51, 51, 51);">
+																		<span style="font-size: 14px;">MORE &gt;</span></span>
 																	</p>
 																</div>
 															</div>
@@ -263,23 +253,14 @@
 								</div>
 								<div class="do-block do-list do-66yyx">
 									<div class="do-element-media x num4 phoneRows2 ly-dt">
-										<div class="do-element-media-content md" id="swiper_66yyx"
-											data-rows="4" data-phonerows="2" data-initialslide="0"
-											data-slidespercolumn="1">
+										<div class="do-element-media-content md" id="swiper_66yyx">
 											<ul class="do-element-media-ul x do-content-grid ">
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".0s"
-													style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
+												<li class="do-element-media-li do-img-animation wow fadeInUp" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+												<div class="do-element-media-conter clearfix do-caption ">
 														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 79.74137931034483%;">
+															<div class="do-media-image" style="padding-top: 79.74137931034483%;">
 																<div class="do-media-image-conter">
-																	<img class="scrollLoading loadingEnd" alt=""
-																		data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4gmh7z.png?imageView2/2/w/1800"
-																		src="style/1587_iw4gmh7z.png"
-																		style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
+																	<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4gmh7z.png" style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
 																</div>
 															</div>
 														</div>
@@ -287,44 +268,24 @@
 															<div class="do-title-body">
 																<div class="do-title-content do-html-content">
 																	<div class="do-html-content title">
-																		<p>
-																			<span style="font-size: 16px;">2016数博会主题论坛召开</span>
-																		</p>
+																		<p><span style="font-size: 16px;">2016数博会主题论坛召开</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p>
-																			<span style="font-size: 12px;">在2016中国大数据产业峰会暨中国电子商务创新发展峰会召开期间
-																				...</span>
-																		</p>
-																		<p>
-																			<span style="font-size: 12px;"><br></span>
-																		</p>
-																		<p>
-																			<span style="font-size: 12px;"><img
-																				class="fr-dib" src="style/1587_iw4e8xed.png"
-																				style="width: 300px;" draggable="false"></span>
-																		</p>
-																		<p style="line-height: 1.8;">
-																			<span style="font-size: 12px;">MORE&gt;&gt;</span>
-																		</p>
+																		<p><span style="font-size: 12px;">在2016中国大数据产业峰会暨中国电子商务创新发展峰会召开期间...</span></p>
+																		<p><span style="font-size: 12px;"><br></span></p>
+																		<p><span style="font-size: 12px;"><img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false"></span></p>
+																		<p style="line-height: 1.8;"><span style="font-size: 12px;">MORE&gt;&gt;</span></p>
 																	</div>
 																</div>
 															</div>
 														</div>
 													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".1s"
-													style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
+												<li class="do-element-media-li do-img-animation wow fadeInUp" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+												<div class="do-element-media-conter clearfix do-caption ">
 														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 79.74137931034483%;">
+															<div class="do-media-image" style="padding-top: 79.74137931034483%;">
 																<div class="do-media-image-conter">
-																	<img class="scrollLoading loadingEnd" alt=""
-																		data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4gmh8d.png?imageView2/2/w/1800"
-																		src="style/1587_iw4gmh8d.png"
-																		style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
+																	<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4gmh8d.png" style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
 																</div>
 															</div>
 														</div>
@@ -332,40 +293,26 @@
 															<div class="do-title-body">
 																<div class="do-title-content do-html-content">
 																	<div class="do-html-content title">
-																		<p>
-																			<span style="font-size: 16px;">无人机环保应用公益活动</span>
-																		</p>
+																		<p><span style="font-size: 16px;">无人机环保应用公益活动</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p>
-																			<span style="font-size: 12px;">中国互联网协会和新华网主办的“互联网+”背景下无人机环保应用公....</span>
-																		</p>
-																		<p>
-																			<span style="font-size: 12px;"><br></span>
-																		</p>
+																		<p><span style="font-size: 12px;">中国互联网协会和新华网主办的“互联网+”背景下无人机环保应用公....</span></p>
+																		<p><span style="font-size: 12px;"><br></span></p>
 																		<p style="line-height: 2;">
-																			<span style="font-size: 12px;"><img
-																				class="fr-dib" src="style/1587_iw4e8xed.png"
-																				style="width: 300px;" draggable="false">MORE&gt;&gt;</span>
+																			<span style="font-size: 12px;">
+																			<img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false">MORE&gt;&gt;</span>
 																		</p>
 																	</div>
 																</div>
 															</div>
 														</div>
 													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".2s"
-													style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
+												<li class="do-element-media-li do-img-animation wow fadeInUp" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+												<div class="do-element-media-conter clearfix do-caption ">
 														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 79.74137931034483%;">
+															<div class="do-media-image" style="padding-top: 79.74137931034483%;">
 																<div class="do-media-image-conter">
-																	<img class="scrollLoading loadingEnd" alt=""
-																		data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4gmh8c.png?imageView2/2/w/1800"
-																		src="style/1587_iw4gmh8c.png"
-																		style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
+																	<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4gmh8c.png" style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
 																</div>
 															</div>
 														</div>
@@ -373,44 +320,24 @@
 															<div class="do-title-body">
 																<div class="do-title-content do-html-content">
 																	<div class="do-html-content title">
-																		<p>
-																			<span style="font-size: 16px;">制造业是互联网+的主战场</span>
-																		</p>
+																		<p><span style="font-size: 16px;">制造业是互联网+的主战场</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p>
-																			<span style="font-size: 12px;">近日，国务院印发了《关于深化制造业与互联网融合发展的指导意
-																				...</span>
-																		</p>
-																		<p>
-																			<span style="font-size: 12px;"><br></span>
-																		</p>
-																		<p>
-																			<span style="font-size: 12px;"><img
-																				class="fr-dib" src="style/1587_iw4e8xed.png"
-																				style="width: 300px;" draggable="false"></span>
-																		</p>
-																		<p style="line-height: 1.8;">
-																			<span style="font-size: 12px;">MORE&gt;&gt;</span>
-																		</p>
+																		<p><span style="font-size: 12px;">近日，国务院印发了《关于深化制造业与互联网融合发展的指导意...</span></p>
+																		<p><span style="font-size: 12px;"><br></span></p>
+																		<p><span style="font-size: 12px;"><img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false"></span></p>
+																		<p style="line-height: 1.8;"><span style="font-size: 12px;">MORE&gt;&gt;</span></p>
 																	</div>
 																</div>
 															</div>
 														</div>
 													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp"
-													data-wow-delay=".3s"
-													style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;"><div
-														class="do-element-media-conter clearfix do-caption ">
+												<li class="do-element-media-li do-img-animation wow fadeInUp" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+												<div class="do-element-media-conter clearfix do-caption ">
 														<div class="do-media-image-box o-mask">
-															<div class="do-media-image"
-																style="padding-top: 79.74137931034483%;">
+															<div class="do-media-image" style="padding-top: 79.74137931034483%;">
 																<div class="do-media-image-conter">
-																	<img class="scrollLoading loadingEnd" alt=""
-																		data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4gmh96.png?imageView2/2/w/1800"
-																		src="style/1587_iw4gmh96.png"
-																		style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
+																	<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4gmh96.png" style="margin-left: -10.4449%; margin-top: 5.03931e-15%; width: 120.89%; height: 100%;">
 																</div>
 															</div>
 														</div>
@@ -418,22 +345,13 @@
 															<div class="do-title-body">
 																<div class="do-title-content do-html-content">
 																	<div class="do-html-content title">
-																		<p>
-																			<span style="font-size: 16px;">中国信息无障碍论坛在北京举行</span>
-																		</p>
+																		<p><span style="font-size: 16px;">中国信息无障碍论坛在北京举行</span></p>
 																	</div>
 																	<div class="do-html-content des">
-																		<p>
-																			<span style="font-size: 12px;">由联合国教科文组织指导，中国残疾人福利基金会、中国互联网协会
-																				...</span>
-																		</p>
-																		<p>
-																			<br>
-																		</p>
+																		<p><span style="font-size: 12px;">由联合国教科文组织指导，中国残疾人福利基金会、中国互联网协会...</span></p>
+																		<p><br></p>
 																		<p style="line-height: 2;">
-																			<span style="font-size: 12px;"><img
-																				class="fr-dib" src="style/1587_iw4e8xed.png"
-																				style="width: 300px;" draggable="false">MORE&gt;&gt;</span>
+																			<span style="font-size: 12px;"><img class="fr-dib" src="style/1587_iw4e8xed.png" style="width: 300px;" draggable="false">MORE&gt;&gt;</span>
 																		</p>
 																	</div>
 																</div>
@@ -466,12 +384,10 @@
 													<div class="title-name">
 														<div class="title-name-conter do-html-content">
 															<p style="line-height: 1;">
-																<span style="color: rgb(51, 51, 51);"><span
-																	style="font-size: 20px;"><strong>最新文章</strong></span></span>
+																<span style="color: rgb(51, 51, 51);"><span style="font-size: 20px;"><strong>最新文章</strong></span></span>
 															</p>
 															<p style="line-height: 1;">
-																<span style="color: rgb(51, 51, 51);"><span
-																	style="font-size: 16px;">Latest Article</span></span>
+																<span style="color: rgb(51, 51, 51);"><span style="font-size: 16px;">Latest Article</span></span>
 															</p>
 														</div>
 													</div>
@@ -506,11 +422,11 @@
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
-										<div class="do-col-6 do-D-c-18-19-48">
+										<div class="do-col-6">
 											<div class="do-panelcol">
 												<div class="do-block do-rows">
 													<div class="do-row">
-														<div class="do-col-3 do-D-c-18-19-22-23-101">
+														<div class="do-col-3">
 															<div class="do-panelcol">
 																<div class="do-block do-text do-677c0">
 																	<div class="do-text-677c0">
@@ -527,7 +443,7 @@
 																</div>
 															</div>
 														</div>
-														<div class="do-col-3 do-D-c-18-19-22-23-98-99">
+														<div class="do-col-3">
 															<div class="do-panelcol">
 																<div class="do-block do-text do-67pyb">
 																	<div class="do-text-67pyb">
@@ -535,8 +451,7 @@
 																			<div class="do-element-text-content do-html">
 																				<div class="do-html-content">
 																					<p style="text-align: right;">
-																						<span style="color: rgb(51, 51, 51);"><span
-																							style="font-size: 14px;">MORE &gt;</span></span>
+																						<span style="color: rgb(51, 51, 51);"><span style="font-size: 14px;">MORE &gt;</span></span>
 																					</p>
 																				</div>
 																			</div>
@@ -569,10 +484,10 @@
 																				<div class="do-title-content do-html-content">
 																					<div class="do-html-content title">
 																						<p>
-																							<a draggable="false" href="http://xiehuimoban.s2.cn.vc/"></a><span style="font-size: 16px; color: rgb(0, 0, 0);">中国信息无障碍论坛在北京举行</span>
+																							<a draggable="false" href=""></a><span style="font-size: 16px; color: rgb(0, 0, 0);">中国信息无障碍论坛在北京举行</span>
 																						</p>
 																						<p>
-																							<a draggable="false" href="http://xiehuimoban.s2.cn.vc/"></a>
+																							<a draggable="false" href=""></a>
 																						</p>
 																					</div>
 																					<div class="do-html-content des">
@@ -589,38 +504,23 @@
 
 												</div>
 												<div class="do-block do-space do-678yu">
-													<div class="do-element-space pc"
-														style="padding-top: 4.140786749482402%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
+													<div class="do-element-space pc" style="padding-top: 4.140786749482402%;"></div>
+													<div class="do-element-space phone" style="padding-top: 5%;"></div>
 												</div>
 												<div class="do-block do-list do-678yt">
-													<div
-														class="do-element-list do-text-color ly-zx num1 phoneRows1 do-lineHeight-sm md do-element-list">
+													<div class="do-element-list do-text-color ly-zx num1 phoneRows1 do-lineHeight-sm md do-element-list">
 														<ul class="do-element-list-ul clearfix">
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:49 </span><a
-																		href="http://xiehuimoban.s2.cn.vc/blog/_63835_16071.html"
-																		class="do-ellipsis" target="_blank"><b>·</b>
-																		鲁炜在中美互联网论坛发表演讲：互利共赢 领航未来</a>
+																	<span class="do-time"> 2016-11-30 13:49 </span><a class="do-ellipsis" target="_blank"><b>·</b>鲁炜在中美互联网论坛发表演讲：互利共赢 领航未来</a>
 																</h4></li>
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:48 </span><a
-																		href="http://xiehuimoban.s2.cn.vc/blog/_63835_16069.html"
-																		class="do-ellipsis" target="_blank"><b>·</b>
-																		习近平会见出席中美互联网论坛</a>
+																	<span class="do-time"> 2016-11-30 13:48 </span><a class="do-ellipsis" target="_blank"><b>·</b>习近平会见出席中美互联网论坛</a>
 																</h4></li>
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:48 </span><a
-																		href="http://xiehuimoban.s2.cn.vc/blog/_63835_16070.html"
-																		class="do-ellipsis" target="_blank"><b>·</b>
-																		罗宾·蔡斯出任分享经济工作委员会名誉顾问</a>
+																	<span class="do-time"> 2016-11-30 13:48 </span><a class="do-ellipsis" target="_blank"><b>·</b>罗宾·蔡斯出任分享经济工作委员会名誉顾问</a>
 																</h4></li>
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:47 </span><a
-																		href="http://xiehuimoban.s2.cn.vc/blog/_63835_16068.html"
-																		class="do-ellipsis" target="_blank"><b>·</b>
-																		2016年中国网店俄罗斯顾客数量增长38%</a>
+																	<span class="do-time"> 2016-11-30 13:47 </span><a class="do-ellipsis" target="_blank"><b>·</b>2016年中国网店俄罗斯顾客数量增长38%</a>
 																</h4></li>
 														</ul>
 													</div>
@@ -631,14 +531,12 @@
 													</div>
 												</div>
 												<div class="do-block do-space do-677bv">
-													<div class="do-element-space pc"
-														style="padding-top: 10.351966873706004%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 17.1%;"></div>
+													<div class="do-element-space pc" style="padding-top: 10.351966873706004%;"></div>
+													<div class="do-element-space phone" style="padding-top: 17.1%;"></div>
 												</div>
 											</div>
 										</div>
-										<div class="do-col-6 do-D-c-18-19-45-46" id="D-c-18-19-45-46">
+										<div class="do-col-6">
 											<div class="do-panelcol">
 												<div class="do-block do-rows">
 													<div class="do-row">
@@ -660,8 +558,7 @@
 																</div>
 															</div>
 														</div>
-														<div class="do-col-3 do-D-c-18-19-22-30-105-106"
-															id="D-c-18-19-22-30-105-106">
+														<div class="do-col-3">
 															<div class="do-panelcol">
 																<div class="do-block do-text do-67py9">
 																	<div class="do-text-67py9">
@@ -669,8 +566,7 @@
 																			<div class="do-element-text-content do-html">
 																				<div class="do-html-content">
 																					<p style="text-align: right;">
-																						<span style="color: rgb(51, 51, 51);"><span
-																							style="font-size: 14px;">MORE &gt;</span></span>
+																						<span style="color: rgb(51, 51, 51);"><span style="font-size: 14px;">MORE &gt;</span></span>
 																					</p>
 																				</div>
 																			</div>
@@ -682,30 +578,19 @@
 													</div>
 												</div>
 												<div class="do-block do-space do-678ys">
-													<div class="do-element-space pc"
-														style="padding-top: 3.1055900621118013%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
+													<div class="do-element-space pc" style="padding-top: 3.1055900621118013%;"></div>
+													<div class="do-element-space phone" style="padding-top: 5%;"></div>
 												</div>
 												<div class="do-block do-list do-678yr">
 													<div class="do-element-media x num1 phoneRows1 ly-zxbk">
-														<div class="do-element-media-content md" id="swiper_678yr"
-															data-rows="1" data-phonerows="1" data-initialslide="0"
-															data-slidespercolumn="1">
+														<div class="do-element-media-content md" id="swiper_678yr">
 															<ul class="do-element-media-ul x do-content-list ">
-																<li
-																	class="do-element-media-li do-img-animation wow fadeInLeft"
-																	data-wow-delay=".0s"
-																	style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;"><div
-																		class="do-element-media-conter clearfix do-caption ">
+																<li class="do-element-media-li do-img-animation wow fadeInLeft" data-wow-delay=".0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
+																<div class="do-element-media-conter clearfix do-caption ">
 																		<div class="do-media-image-box o-mask">
-																			<div class="do-media-image"
-																				style="padding-top: 74.71264367816092%;">
+																			<div class="do-media-image" style="padding-top: 74.71264367816092%;">
 																				<div class="do-media-image-conter">
-																					<img class="scrollLoading loadingEnd" alt=""
-																						data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4jtuuh.png?imageView2/2/w/1800"
-																						src="style/1587_iw4jtuuh.png"
-																						style="margin-left: -7.56208%; margin-top: 0%; width: 115.124%; height: 100%;">
+																					<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4jtuuh.png" style="margin-left: -7.56208%; margin-top: 0%; width: 115.124%; height: 100%;">
 																				</div>
 																			</div>
 																		</div>
@@ -714,9 +599,7 @@
 																				<div class="do-title-content do-html-content">
 																					<div class="do-html-content title">
 																						<p>
-																							<a draggable="false"
-																								href="http://xiehuimoban.s2.cn.vc/"><span
-																								style="font-size: 16px; color: rgb(51, 51, 51);">第八届中美互联网论坛在美国西雅图召开</span></a>
+																							<a draggable="false" style="font-size: 16px; color: rgb(51, 51, 51);">第八届中美互联网论坛在美国西雅图召开</span></a>
 																						</p>
 																					</div>
 																					<div class="do-html-content des">
@@ -733,19 +616,15 @@
 
 												</div>
 												<div class="do-block do-space do-678yq">
-													<div class="do-element-space pc"
-														style="padding-top: 4.140786749482402%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
+													<div class="do-element-space pc" style="padding-top: 4.140786749482402%;"></div>
+													<div class="do-element-space phone" style="padding-top: 5%;"></div>
 												</div>
 												<div class="do-block do-list do-678yp">
 													<div
 														class="do-element-list do-text-color ly-zx num1 phoneRows1 do-lineHeight-sm md do-element-list">
 														<ul class="do-element-list-ul clearfix">
 															<li class="do-element-list-item"><h4 class="heading">
-																	<span class="do-time"> 2016-11-30 13:49 </span><a
-																		href="http://xiehuimoban.s2.cn.vc/blog/_63835_16071.html"
-																		class="do-ellipsis" target="_blank"><b>·</b>
+																	<span class="do-time"> 2016-11-30 13:49 </span><a class="do-ellipsis" target="_blank"><b>·</b>
 																		鲁炜在中美互联网论坛发表演讲：互利共赢 领航未来</a>
 																</h4></li>
 															<li class="do-element-list-item"><h4 class="heading">
