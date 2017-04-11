@@ -56,8 +56,7 @@
 								<div class="do-block do-space do-66sy2">
 									<div class="do-element-space pc"
 										style="padding-top: 1.4000000000000001%;"></div>
-									<div class="do-element-space phone"
-										style="padding-top: 2.63724434876211%;"></div>
+									<div class="do-element-space phone" style="padding-top: 2.63724434876211%;"></div>
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
@@ -66,8 +65,8 @@
 												<div class="do-block do-logo do-66sy1">
 													<div do-logo="" class="do-logo">
 														<div class="z-logo align-left size7">
-															<a href="http://xiehuimoban.s2.cn.vc/" title=""><img
-																src="style/3917_iwol5yu4(2).png" alt=""></a>
+															<a title="website"><img src="style/logo.jpg" alt=""></a>
+															website
 														</div>
 													</div>
 												</div>
@@ -80,25 +79,14 @@
 														<div class="z-nav-bar">
 															<div class="z-nav-container">
 																<ul class="z-nav-conter clearfix">
-																	<li class="nav63648 active"><a
-																		href="http://xiehuimoban.s2.cn.vc/"><span>首页</span></a></li>
-																	<li class="nav63658"><a
-																		href="http://xiehuimoban.s2.cn.vc/63658.html"><span>协会概况</span></a></li>
-																	<li class="nav63659"><a
-																		href="http://xiehuimoban.s2.cn.vc/63659.html"><span>协会会员</span></a></li>
-																	<li class="nav63835"><a
-																		href="http://xiehuimoban.s2.cn.vc/63835.html"><span>资讯中心</span></a></li>
-																	<li class="nav63661"><a
-																		href="http://xiehuimoban.s2.cn.vc/board"><span>协会动态</span></a><input
-																		type="checkbox" id="inputNavSub63661"
-																		class="do-m-menustate do-m-sub"><label
-																		for="inputNavSub63661" class="icon-isSub"></label>
+																	<li class="active"><a><span>首页</span></a></li>
+																	<li><a><span>java</span></a>
 																		<ul class="z-nav-sub">
-																			<li class="nav63961"><a
-																				href="http://xiehuimoban.s2.cn.vc/board"><span>通知公告</span></a></li>
+																			<li><a><span>通知</span></a></li>
 																		</ul></li>
-																	<li class="nav63662"><a
-																		href="http://xiehuimoban.s2.cn.vc/63662.html"><span>联系我们</span></a></li>
+																	<li><a><span>数据库</span></a></li>
+																	<li><a><span>随笔</span></a></li>
+																	<li><a><span>联系我们</span></a></li>
 																</ul>
 															</div>
 														</div>
@@ -145,14 +133,14 @@
 											id="slide_6d8z4">
 											<div class="swiper-wrapper">
 												<div class="swiper-slide swiper-slide-active">
-													<div class="do-element-slide-toys">
+													<div class="do-element-slide-toys"><div style="margin-top:10px;color: white; width: 300px;text-align:center;">
+													<br/><br/><span style="font-size: 14px;">不读万卷书的旅行，无异于一个邮差。</span></div>
 														<div class="do-middle">
-															<div class="do-middle-centers do-element-slide-toys-con ">
+															<div style="margin-top:100px;">
 																<div class="do-slide-textbox ">
 																	<div class="do-slide-text">
 																		<p>
-																		<div
-																			style="margin: 5px auto; color: white; width: 1300px;">
+																		<div style="margin: 5px auto; color: white; width: 1300px;">
 																			<span style="font-size: 18px;">爬坑之旅</span><br /> <span
 																				style="font-size: 68px;">welcome to websize</span> <br />
 																			<span style="font-size: 20px;">心若没有栖息的地方，到哪里都是在流浪</span><br />
