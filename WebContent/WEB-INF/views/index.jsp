@@ -844,7 +844,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="do-section do-area" id="area_63648_3" data-fullname="">
+			<!-- <div class="do-section do-area" id="area_63648_3" data-fullname="">
 				<div class="do-area-bg ">
 					<div class="do-area-bg-conter">
 						<div class="bgcolor"></div>
@@ -1049,7 +1049,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="do-section do-area" id="area_63648_4" data-fullname="">
 				<div class="do-area-bg ">
 					<div class="do-area-bg-conter">
@@ -1074,10 +1074,9 @@
 														<div class="title-name-conter do-html-content">
 															<p style="line-height: 1; text-align: center;">
 																<span style="color: rgb(51, 51, 51);"><span
-																	style="font-size: 20px;"><strong>合作伙伴</strong></span></span>
+																	style="font-size: 20px;"><strong>友情链接</strong></span></span>
 															</p>
-															<p style="line-height: 1; text-align: center;">Work
-																partner</p>
+															<p style="line-height: 1; text-align: center;">Link</p>
 														</div>
 													</div>
 												</div>
@@ -1097,132 +1096,44 @@
 											class="do-element-media-content md swiper-container do-list-swiper swiper-container-horizontal"
 											id="swiper_67iiq" data-rows="5" data-phonerows="2"
 											data-initialslide="0" data-slidespercolumn="1">
-											<ul
-												class="do-element-media-ul x do-content-grid  swiper-wrapper">
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp swiper-slide swiper-slide-active"
-													data-wow-delay=".0s"
-													style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
+											<ul class="do-element-media-ul x do-content-grid  swiper-wrapper">
+												<li class="do-element-media-li do-img-animation wow fadeInUp swiper-slide swiper-slide-active" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp; width: 244.8px;">
+													<div class="do-element-media-conter clearfix ">
 														<div class="do-media-image-box o-mask">
 															<div class="do-media-image">
 																<div class="do-media-image-conter sizeimg ">
 																	<div class="do-middle">
 																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4f4.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4f4.png" alt="">
+																			<img class="scrollLoading loadingEnd" src="style/1587_iw4mn4f4.png" alt="">
 																		</div>
 																	</div>
 																</div>
 															</div>
 														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp swiper-slide swiper-slide-next"
-													data-wow-delay=".1s"
-													style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
+													</div>
+												</li>
+												<li class="do-element-media-li do-img-animation wow fadeInUp swiper-slide swiper-slide-active" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp; width: 244.8px;">
+													<div class="do-element-media-conter clearfix ">
 														<div class="do-media-image-box o-mask">
 															<div class="do-media-image">
 																<div class="do-media-image-conter sizeimg ">
 																	<div class="do-middle">
 																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4fb.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4fb.png" alt="">
+																			<img class="scrollLoading loadingEnd" src="style/1587_iw4mn4f4.png" alt="">
 																		</div>
 																	</div>
 																</div>
 															</div>
 														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp  swiper-slide"
-													data-wow-delay=".2s"
-													style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4fd.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4fd.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp  swiper-slide"
-													data-wow-delay=".3s"
-													style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4fc.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4fc.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp  swiper-slide"
-													data-wow-delay=".4s"
-													style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4fe.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4fe.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-												<li
-													class="do-element-media-li do-img-animation wow fadeInUp  swiper-slide"
-													data-wow-delay=".5s"
-													style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp; width: 244.8px;"><div
-														class="do-element-media-conter clearfix ">
-														<div class="do-media-image-box o-mask">
-															<div class="do-media-image">
-																<div class="do-media-image-conter sizeimg ">
-																	<div class="do-middle">
-																		<div class="do-middle-center">
-																			<img class="scrollLoading loadingEnd"
-																				data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4mn4f4.png?imageView2/2/w/1800"
-																				src="style/1587_iw4mn4f4.png" alt="">
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div></li>
-											</ul>
+													</div>
+												</li></ul>
 										</div>
-										<div class="swiper-pagination">
-											<span
-												class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span
-												class="swiper-pagination-bullet"></span>
+										<!-- <div class="swiper-pagination">
+											<spanclass="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
+											<spanclass="swiper-pagination-bullet"></span>
 										</div>
-										<div
-											class="swiper-button-prev swiper-button-white swiper-button-disabled"></div>
-										<div class="swiper-button-next swiper-button-white"></div>
+										<divclass="swiper-button-prev swiper-button-white swiper-button-disabled"></div>
+										<div class="swiper-button-next swiper-button-white"></div> -->
 									</div>
 
 								</div>
@@ -1230,21 +1141,9 @@
 									<div class="do-element-space pc" style="padding-top: 5%;"></div>
 									<div class="do-element-space phone" style="padding-top: 17.1%;"></div>
 								</div>
-								<div class="do-block do-code do-6fiku">
-									<div class="do-element-code">
-										<div class="do-element-code-content"></div>
-									</div>
-								</div>
-								<div class="do-block do-code do-6eeim">
-									<div class="do-element-code">
-										<div class="do-element-code-content"></div>
-									</div>
-								</div>
-								<div class="do-block do-code do-6etfx">
-									<div class="do-element-code">
-										<div class="do-element-code-content"></div>
-									</div>
-								</div>
+								<div class="do-block do-code do-6fiku"><div class="do-element-code"><div class="do-element-code-content"></div></div></div>
+								<div class="do-block do-code do-6eeim"><div class="do-element-code"><div class="do-element-code-content"></div></div></div>
+								<div class="do-block do-code do-6etfx"><div class="do-element-code"><div class="do-element-code-content"></div></div></div>
 							</div>
 						</div>
 					</div>
@@ -1260,7 +1159,7 @@
 				</div>
 				<div id="footer_0" class="do-row do-row-one">
 					<div class="do-row ">
-						<div class="do-col-12 do-F-c-65-66" id="F-c-65-66">
+						<div class="do-col-12">
 							<div class="do-panelcol">
 								<div class="do-block do-space do-67iip">
 									<div class="do-element-space pc" style="padding-top: 6%;"></div>
@@ -1269,215 +1168,7 @@
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
-										<div class="do-col-4 do-F-c-65-66-75" id="F-c-65-66-75">
-											<div class="do-panelcol">
-												<div class="do-block do-text do-67iio">
-													<div class="do-text-67iio">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>
-																		<span style="font-size: 36px;">LOGO</span>
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-text do-67iii">
-													<div class="do-text-67iii">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<ul>
-																		<li style="line-height: 1.8;">主办单位：中国互联网协会</li>
-																		<li style="line-height: 1.8;">承办单位：中国联通友情赞助网络带宽</li>
-																	</ul>
-																</div>
-															</div>
-															<div class="do-area-bg">
-																<div class="do-area-bg-conter">
-																	<div class="bgcolor"></div>
-																</div>
-															</div>
-
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-text do-67iif">
-													<div class="do-text-67iif">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content"></div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-text do-6g2ei">
-													<div class="do-text-6g2ei">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>联系我们 | 协会简介 | 会员单位 | 加入协会</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-text do-67iie">
-													<div class="do-text-67iie">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>2011-2016 Copyrights reserved 京ICP备05006316号</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-share do-6g0oo"></div>
-											</div>
-										</div>
-										<div class="do-col-4 do-F-c-65-66-72-73" id="F-c-65-66-72-73">
-											<div class="do-panelcol">
-												<div class="do-block do-text do-67iil">
-													<div class="do-text-67iil">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>
-																		<span style="font-size: 20px;">友情链接</span>
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="do-block do-space do-67iid">
-													<div class="do-element-space pc"
-														style="padding-top: 6.688963210702341%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
-												</div>
-												<div class="do-block do-text do-67iic">
-													<div class="do-text-67iic">
-														<div class="do-element-text do-element-general">
-															<div class="do-element-text-content do-html">
-																<div class="do-html-content">
-																	<p>
-																		政府部门 <a href="http://www.miit.gov.cn/" target="_blank">工业和信息化部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.scio.gov.cn/" target="_blank">国务院新闻办公室</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.most.gov.cn/" target="_blank">科技部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.mofcom.gov.cn/" target="_blank">商务部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.ccnt.gov.cn/" target="_blank">文化部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.mps.gov.cn/" target="_blank">公安部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.mca.gov.cn/" target="_blank">民政部</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.gapp.gov.cn/" target="_blank">新闻出版总署</a>
-																	</p>
-																	<p>
-																		相关机构 <a href="http://www.cas.cn/" target="_blank">中国科学院</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.cae.cn/" target="_blank">中国工程院</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.cast.org.cn/" target="_blank">中国科学技术协会</a><span>&nbsp;</span><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.cnnic.org.cn/" target="_blank">中国互联网络信息中心</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://xxzx.miit.gov.cn/" target="_blank">工业和信息化部信息中心</a>
-																	</p>
-																	<p>
-																		国际组织 &nbsp;<a href="http://www.itu.int/"
-																			target="_blank">ITU</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.icann.org/" target="_blank">ICANN</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.isoc.org/" target="_blank">ISOC</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.ietf.org/" target="_blank">IETF</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.apnic.net/" target="_blank">APNIC</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.ieee.org/" target="_blank">IEEE</a><span>&nbsp;</span>|
-																	</p>
-																	<p>
-																		<span>&nbsp;</span><a href="http://www.cert.org/"
-																			target="_blank">CERT</a>|<span>&nbsp;</span><a
-																			href="http://www.intgovforum.org/" target="_blank">IGF</a><span>&nbsp;</span>|<span>&nbsp;</span><a
-																			href="http://www.spamhaus.org/" target="_blank">SPAMHAUS</a>
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="do-col-4 do-F-c-65-66-72-81" id="F-c-65-66-72-81">
-											<div class="do-panelcol">
-												<div class="do-block do-space do-67iib">
-													<div class="do-element-space pc"
-														style="padding-top: 6.329113924050633%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
-												</div>
-												<div class="do-block do-forms do-67ii9">
-													<div
-														class="do-element-forms ly-form align-left do-forms-label-hide ">
-														<div class="do-noAdapt-content md list ">
-															<form
-																action="http://xiehuimoban.s2.cn.vc/forms/data/7868/33167130-d900-412d-9815-f5e40c97e261"
-																data-id="33167130-d900-412d-9815-f5e40c97e261"
-																id="item_33167130-d900-412d-9815-f5e40c97e261"
-																method="post" class="form do-forms do-product-box list"
-																data-gourl="" data-v="true" onsubmit="return false;">
-																<div
-																	class="do-form-group form-input do-formitem0 do-form-item">
-																	<label for="form_id_姓名">姓名<span
-																		style="color: red">*</span></label><input type="text"
-																		class="form-control required" name="姓名" datatype="*"
-																		nullmsg="请输入姓名" id="form_id_姓名" placeholder="请输入姓名">
-																</div>
-																<div
-																	class="do-form-group form-input do-formitem1 do-form-item">
-																	<label for="form_id_联系电话">联系电话<span
-																		style="color: red">*</span></label><input type="text"
-																		class="form-control required" name="联系电话" datatype="*"
-																		nullmsg="请输入联系电话" id="form_id_联系电话"
-																		placeholder="请输入联系电话">
-																</div>
-																<div
-																	class="do-form-group form-textarea do-formitem2 do-form-item">
-																	<label for="form_id_留言内容">留言内容<span
-																		style="color: red">*</span></label>
-																	<textarea name="留言内容" class="form-control" datatype="*"
-																		nullmsg="请输入留言内容" placeholder="请输入留言内容"></textarea>
-																</div>
-																<div class="do-form-group form-captcha">
-																	<label>验证<span style="color: red">*</span></label>
-																	<div
-																		id="forms_captcha_33167130-d900-412d-9815-f5e40c97e261"
-																		class="forms_captcha captcha_33167130-d900-412d-9815-f5e40c97e261"
-																		data-lang="zh-cn">
-																		<input type="hidden" name="geetest_server_status"
-																			value="MTQxOTA2MDczNzY2ODcxMjIwN2E1NzM5MjJlYTI4N2RhOTUyNzFiNDcyMDg3MTNhZGVh">
-																		<div class="gt_input">
-																			<input class="geetest_challenge" type="hidden"
-																				name="geetest_challenge"><input
-																				class="geetest_validate" type="hidden"
-																				name="geetest_validate"><input
-																				class="geetest_seccode" type="hidden"
-																				name="geetest_seccode">
-																		</div>
-																	</div>
-																</div>
-																<div class="do-form-group form-button">
-																	<input type="submit"
-																		id="origin_btn_33167130-d900-412d-9815-f5e40c97e261"
-																		class="btn btn-success btn-lg btn-block do-bg-blue4 "
-																		value="提交" style=""><input type="submit"
-																		id="btn_33167130-d900-412d-9815-f5e40c97e261"
-																		class="btn btn-success btn-lg btn-block do-bg-blue4 "
-																		value="提交" style="display: none;">
-																</div>
-															</form>
-														</div>
-													</div>
-
-												</div>
-											</div>
-										</div>
-									</div>
+										<div>end</div></div>
 								</div>
 								<div class="do-block do-space do-67iin">
 									<div class="do-element-space pc" style="padding-top: 6%;"></div>
