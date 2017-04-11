@@ -13,6 +13,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><![endif]-->
 <title>主页</title>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link href="style/saved_resource(9)" rel="stylesheet" type="text/css">
 <link href="style/saved_resource(10)" rel="stylesheet" type="text/css">
 <link href="style/style.css" rel="stylesheet" type="text/css">
@@ -216,7 +217,7 @@
 																		<div class="title-name-conter do-html-content">
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);"><span
-																					style="font-size: 20px;"><strong>最热文章</strong></span></span>
+																					style="font-size: 20px;"><strong>最热文章<i class="fa fa-eye"></i><i class="fa fa-pencil-square-o"></i><i class="fa fa-tag"></i><i class="fa fa-home fa-fw" aria-hidden="true"></i><i class="fa fa-book fa-fw" aria-hidden="true"></i></strong></span></span>
 																			</p>
 																			<p style="line-height: 1;">
 																				<span style="color: rgb(51, 51, 51);"><span
@@ -231,7 +232,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="do-col-6 do-D-c-12-13-114" id="D-c-12-13-114">
+										<div class="do-col-6 do-D-c-12-13-114">
 											<div class="do-panelcol">
 												<div class="do-block do-text do-67pyj">
 													<div class="do-text-67pyj">
@@ -497,21 +498,19 @@
 				</div>
 				<div id="area_1" class="do-row do-row-one ">
 					<div class="do-row ">
-						<div class="do-col-12 do-D-c-48-49" id="D-c-48-49">
+						<div class="do-col-12 do-D-c-48-49">
 							<div class="do-panelcol">
 								<div class="do-block do-space do-66sxq">
 									<div class="do-element-space pc" style="padding-top: 3%;"></div>
-									<div class="do-element-space phone hide"
-										style="padding-top: 16.400000000000002%;"></div>
+									<div class="do-element-space phone hide" style="padding-top: 16.400000000000002%;"></div>
 								</div>
 								<div class="do-block do-rows">
 									<div class="do-row">
-										<div class="do-col-6 do-D-c-18-19-48" id="D-c-18-19-48">
+										<div class="do-col-6 do-D-c-18-19-48">
 											<div class="do-panelcol">
 												<div class="do-block do-rows">
 													<div class="do-row">
-														<div class="do-col-3 do-D-c-18-19-22-23-101"
-															id="D-c-18-19-22-23-101">
+														<div class="do-col-3 do-D-c-18-19-22-23-101">
 															<div class="do-panelcol">
 																<div class="do-block do-text do-677c0">
 																	<div class="do-text-677c0">
@@ -519,8 +518,7 @@
 																			<div class="do-element-text-content do-html">
 																				<div class="do-html-content">
 																					<p>
-																						<span
-																							style="font-size: 16px; color: rgb(51, 51, 51);">国内资讯</span>
+																						<span style="font-size: 16px; color: rgb(51, 51, 51);">国内资讯</span>
 																					</p>
 																				</div>
 																			</div>
@@ -529,8 +527,7 @@
 																</div>
 															</div>
 														</div>
-														<div class="do-col-3 do-D-c-18-19-22-23-98-99"
-															id="D-c-18-19-22-23-98-99">
+														<div class="do-col-3 do-D-c-18-19-22-23-98-99">
 															<div class="do-panelcol">
 																<div class="do-block do-text do-67pyb">
 																	<div class="do-text-67pyb">
@@ -551,30 +548,19 @@
 													</div>
 												</div>
 												<div class="do-block do-space do-677bu">
-													<div class="do-element-space pc"
-														style="padding-top: 3.1055900621118013%;"></div>
-													<div class="do-element-space phone"
-														style="padding-top: 5%;"></div>
+													<div class="do-element-space pc" style="padding-top: 3.1055900621118013%;"></div>
+													<div class="do-element-space phone" style="padding-top: 5%;"></div>
 												</div>
 												<div class="do-block do-list do-678yv">
 													<div class="do-element-media x num1 phoneRows1 ly-zxbk">
-														<div class="do-element-media-content md" id="swiper_678yv"
-															data-rows="1" data-phonerows="1" data-initialslide="0"
-															data-slidespercolumn="1">
+														<div class="do-element-media-content md" id="swiper_678yv">
 															<ul class="do-element-media-ul x do-content-list ">
-																<li
-																	class="do-element-media-li do-img-animation wow fadeInLeft"
-																	data-wow-delay=".0s"
-																	style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;"><div
-																		class="do-element-media-conter clearfix do-caption ">
+																<li class="do-element-media-li do-img-animation wow fadeInLeft" style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
+																<div class="do-element-media-conter clearfix do-caption ">
 																		<div class="do-media-image-box o-mask">
-																			<div class="do-media-image"
-																				style="padding-top: 74.71264367816092%;">
+																			<div class="do-media-image" style="padding-top: 74.71264367816092%;">
 																				<div class="do-media-image-conter">
-																					<img class="scrollLoading loadingEnd" alt=""
-																						data-src="http://bk.image.styleweb.com.cn/2016/11/30/1587_iw4ifqa1.png?imageView2/2/w/1800"
-																						src="style/1587_iw4ifqa1.png"
-																						style="margin-left: -7.56208%; margin-top: 0%; width: 115.124%; height: 100%;">
+																					<img class="scrollLoading loadingEnd" alt="" src="style/1587_iw4ifqa1.png" style="margin-left: -7.56208%; margin-top: 0%; width: 115.124%; height: 100%;">
 																				</div>
 																			</div>
 																		</div>
@@ -583,13 +569,10 @@
 																				<div class="do-title-content do-html-content">
 																					<div class="do-html-content title">
 																						<p>
-																							<a draggable="false"
-																								href="http://xiehuimoban.s2.cn.vc/"></a><span
-																								style="font-size: 16px; color: rgb(0, 0, 0);">中国信息无障碍论坛在北京举行</span>
+																							<a draggable="false" href="http://xiehuimoban.s2.cn.vc/"></a><span style="font-size: 16px; color: rgb(0, 0, 0);">中国信息无障碍论坛在北京举行</span>
 																						</p>
 																						<p>
-																							<a draggable="false"
-																								href="http://xiehuimoban.s2.cn.vc/"></a>
+																							<a draggable="false" href="http://xiehuimoban.s2.cn.vc/"></a>
 																						</p>
 																					</div>
 																					<div class="do-html-content des">
